@@ -2,6 +2,12 @@
   publish = "dist"
   command = "npm install && npm run build"
 
+# Keep the site out of search engines: noindex header on every response
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive, noimageindex"
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
@@ -11,4 +17,3 @@
   from = "/*"
   to = "/404"
   status = 404
-
