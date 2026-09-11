@@ -22,7 +22,7 @@ const pageKey = (page) =>
   clean(page, 300).replace(/\/{2,}/g, "/").replace(/^\/+|\/+$/g, "") || "home";
 
 export default async (req) => {
-  const store = getStore("comments");
+  const store = getStore({ name: "comments", consistency: "strong" });
   const url = new URL(req.url);
 
   if (req.method === "GET") {
