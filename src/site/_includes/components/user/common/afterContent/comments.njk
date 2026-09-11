@@ -44,10 +44,11 @@
       return '<div class="dg-comment"><div class="dg-comment-meta"><strong>' + esc(c.name) + '</strong> &middot; ' + esc(fmt(c.time)) + '</div><div class="dg-comment-text">' + esc(c.text) + '</div></div>';
     }).join('');
   }
+  var items = [];
   function load() {
     fetch('/api/comments?page=' + encodeURIComponent(page), { cache: 'no-store' })
       .then(function (r) { return r.json(); })
-      .then(function (d) { render(Array.isArray(d) ? d : []); })
+      .then(function (d) { items = Array.isArray(d) ? d : []; render(items); })
       .catch(function () { list.innerHTML = '<p class="dg-comments-empty">Comments could not be loaded.</p>'; });
   }
   try { var saved = localStorage.getItem('dg-comment-name'); if (saved) f.name.value = saved; } catch (e) {}
@@ -59,11 +60,11 @@
     var body = { page: page, name: f.name.value, text: f.text.value, website: f.website.value };
     fetch('/api/comments', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
       .then(function (r) { if (!r.ok) throw new Error('post failed'); return r.json(); })
-      .then(function () {
+      .then(function (c) {
         try { localStorage.setItem('dg-comment-name', f.name.value); } catch (e) {}
         f.text.value = '';
         status.textContent = 'Posted.';
-        load();
+        if (c && c.id) { items.push(c); render(items); } else { load(); }
       })
       .catch(function () { status.textContent = 'Could not post. Please try again.'; })
       .finally(function () { btn.disabled = false; setTimeout(function () { status.textContent = ''; }, 4000); });
