@@ -34,6 +34,8 @@ With Aya, Tal, Guy and Noa. Fly El Al to Bucharest, rent a car, three nights in 
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]] (the note and the itinerary PDF as they were before being split by topic, Sep 2026)
 
 ## To do before the trip
-- Reserve parking at Concorde Old Bucharest hotel in advance
 - Confirm 16:30 reservation at Caru' cu Bere for Sep 22
-- Confirm bear watching for Sep 20, 17:30 (https://medveles.hu/en/programs/tourist-bear-watching)
+
+## Done
+- Parking at Concorde Old Bucharest hotel: reserved (Aya)
+- Bear watching Sep 20, 17:30: booked (Aya), https://medveles.hu/en/programs/tourist-bear-watching
