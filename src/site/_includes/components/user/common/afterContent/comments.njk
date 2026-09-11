@@ -1,0 +1,73 @@
+<section class="dg-comments" id="dg-comments">
+  <h2>Comments</h2>
+  <div class="dg-comments-list" data-empty="No comments yet. Be the first."></div>
+  <form class="dg-comments-form" autocomplete="off">
+    <label>Name<input name="name" maxlength="40" required></label>
+    <label>Comment<textarea name="text" rows="3" maxlength="2000" required placeholder="Ideas, questions, things to change..."></textarea></label>
+    <input name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="dg-comments-hp">
+    <div class="dg-comments-actions"><button type="submit">Post comment</button><span class="dg-comments-status" aria-live="polite"></span></div>
+  </form>
+</section>
+<style>
+  .dg-comments { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--background-modifier-border, #8884); }
+  .dg-comments h2 { margin-top: 0; }
+  .dg-comment { padding: 0.75rem 1rem; margin: 0.5rem 0; border-radius: 8px; background: var(--background-secondary, rgba(128,128,128,0.12)); }
+  .dg-comment-meta { font-size: 0.85em; color: var(--text-muted, #888); margin-bottom: 0.25rem; }
+  .dg-comment-meta strong { color: var(--text-normal, inherit); }
+  .dg-comment-text { white-space: pre-wrap; word-break: break-word; }
+  .dg-comments-empty { color: var(--text-muted, #888); font-style: italic; }
+  .dg-comments-form { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 1rem; max-width: 40rem; }
+  .dg-comments-form label { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.9em; color: var(--text-muted, #888); }
+  .dg-comments-form input, .dg-comments-form textarea { font: inherit; color: var(--text-normal, inherit); background: var(--background-primary, transparent); border: 1px solid var(--background-modifier-border, #8886); border-radius: 6px; padding: 0.5rem 0.6rem; }
+  .dg-comments-form textarea { resize: vertical; }
+  .dg-comments-hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+  .dg-comments-actions { display: flex; align-items: center; gap: 0.75rem; }
+  .dg-comments-form button { font: inherit; padding: 0.5rem 1rem; border: none; border-radius: 6px; cursor: pointer; background: var(--interactive-accent, #4a7bd0); color: var(--text-on-accent, #fff); }
+  .dg-comments-form button[disabled] { opacity: 0.6; cursor: default; }
+  .dg-comments-status { font-size: 0.9em; color: var(--text-muted, #888); }
+</style>
+<script>
+(function () {
+  var root = document.getElementById('dg-comments');
+  if (!root) return;
+  var page = location.pathname;
+  var list = root.querySelector('.dg-comments-list');
+  var form = root.querySelector('form');
+  var status = root.querySelector('.dg-comments-status');
+  var f = form.elements;
+  var escMap = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return escMap[c]; }); }
+  function fmt(t) { try { return new Date(t).toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' }); } catch (e) { return t; } }
+  function render(items) {
+    if (!items.length) { list.innerHTML = '<p class="dg-comments-empty">' + esc(list.getAttribute('data-empty')) + '</p>'; return; }
+    list.innerHTML = items.map(function (c) {
+      return '<div class="dg-comment"><div class="dg-comment-meta"><strong>' + esc(c.name) + '</strong> &middot; ' + esc(fmt(c.time)) + '</div><div class="dg-comment-text">' + esc(c.text) + '</div></div>';
+    }).join('');
+  }
+  function load() {
+    fetch('/api/comments?page=' + encodeURIComponent(page), { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (d) { render(Array.isArray(d) ? d : []); })
+      .catch(function () { list.innerHTML = '<p class="dg-comments-empty">Comments could not be loaded.</p>'; });
+  }
+  try { var saved = localStorage.getItem('dg-comment-name'); if (saved) f.name.value = saved; } catch (e) {}
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var btn = form.querySelector('button');
+    btn.disabled = true;
+    status.textContent = 'Posting...';
+    var body = { page: page, name: f.name.value, text: f.text.value, website: f.website.value };
+    fetch('/api/comments', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
+      .then(function (r) { if (!r.ok) throw new Error('post failed'); return r.json(); })
+      .then(function () {
+        try { localStorage.setItem('dg-comment-name', f.name.value); } catch (e) {}
+        f.text.value = '';
+        status.textContent = 'Posted.';
+        load();
+      })
+      .catch(function () { status.textContent = 'Could not post. Please try again.'; })
+      .finally(function () { btn.disabled = false; setTimeout(function () { status.textContent = ''; }, 4000); });
+  });
+  load();
+})();
+</script>
