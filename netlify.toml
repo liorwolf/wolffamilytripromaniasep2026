@@ -2,6 +2,10 @@
   publish = "dist"
   command = "npm install && npm run build"
 
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # Keep the site out of search engines: noindex header on every response
 [[headers]]
   for = "/*"
