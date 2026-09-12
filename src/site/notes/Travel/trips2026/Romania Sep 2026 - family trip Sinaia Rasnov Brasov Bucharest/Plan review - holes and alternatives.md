@@ -28,7 +28,7 @@ Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania S
 
 ### Sun 20 Sep, Rasnov and Bran area
 - Five options plus bear watching is two days of activity. Pick two.
-- Bran castle on a Sunday is the second-busiest day of the week. Be at the gate at 09:00 opening or after 16:00. Ticket about 120 lei.
+- Bran castle on a Sunday is the second-busiest day of the week. Be at the gate at 09:00 opening or after 16:00. Ticket about 120 lei (€24).
 - Devil's Mill waterfall (Cascada Moara Dracului) is not a 41 min drive to a viewpoint. It is at 1,575 m in the Bucegi, reached by an 11 km, 3 to 3.5 hour hike from Șimon village near Bran. Good hike, wrong category in the plan.
 - Rasnov fortress is closed for renovation until 2028. Only the grounds and the panorama are open.
 - Bear watching via medveles.hu: their hides are in Harghita county, not near Brasov. The Băile Tușnad hide is about 1.5 hours from Cristian (69 km to Brasov plus 15 min), the Borzont hide near Gheorgheni is about 3 hours. Find out which one is booked. The program starts 2 hours before sunset, so about 17:15, ends about 19:45, and you are back at the hotel around 21:30. That is 3 hours of driving for the evening and it kills the afternoon. Alternative: bear hides at the edge of Zărnești, 15 min from the hotel, run by the local forest manager with tours from Brasov at sunset (GetYourGuide, Viator, Romanian Friend), about 85-100% sighting rate. Or the Libearty bear sanctuary in Zărnești in the morning (rescued bears, not wild, 1 hour walk, tours at 09:00, book 48 hours ahead, +40 268 471 202).

@@ -27,21 +27,25 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 - Why here and not the old town: it is exactly on the way to Therme and Snagov, so one car serves both groups with no detours, and the old town's shopping (Lipscani street) is souvenirs and a few boutiques, better done in the 15:00-16:30 gap.
 - Alternative shopping if the mall is not the goal: **Calea Victoriei** from the Athenaeum to the old town has the designer boutiques and Cărturești bookshops, walkable from the hotel, so Tal and Noa could skip the mall and shop in the centre from 10:00 while the car goes north. Promenada Mall in Floreasca (next to Vacamuuu) is the other good mall, 15 min from the centre.
 
+#### For Lior before Therme or Snagov
+- **Băneasa forest:** Pădurea Băneasa starts just north of the mall, across DN1 by the zoo, with flat gravel and dirt tracks; an 8-10 km loop takes 40-50 min at your pace. Guy stays with the shoppers for that hour, then you both drive on to Therme at 11:30 and shower there. Or run the 7 km Herăstrău lake loop (15 min drive south, park at the Charles de Gaulle entrance) while Guy rents a bike next to you at La Pedale.
+- **At Snagov:** the swim is the workout; add a 5 km run along the shore road before the kayak rental opens at 11:00.
+
 ### Therme București (Lior and Guy, option 1)
 - **Worth it: 5/5 for a relaxed last day.** Europe's largest spa complex, a glass hall on the DN1 north of the airport: 10 pools of mineral water, 16 slides in the Galaxy zone, a wave pool, saunas, palm-tree indoor beach, outdoor heated pools. Tuesday mornings are quiet.
-- Prices are per zone and per 3 hours on weekdays: Galaxy (slides, families) about 71 lei, The Palm (adults, quiet pools) about 102 lei, Elysium (saunas, adults only) about 132 lei, upgrades 30 lei. Extra hours charged at exit. A 3 hour Galaxy ticket for Guy plus Palm upgrade for the adults covers 10:45-13:45 nicely. Free parking.
-- Bring swimsuits, flip-flops, a towel (or rent one, 15 lei). Lockers by wristband. Food inside is fine but pricey; there is a Mega Image next door.
+- Prices are per zone and per 3 hours on weekdays: Galaxy (slides, families) about 71 lei (€14), The Palm (adults, quiet pools) about 102 lei (€20), Elysium (saunas, adults only) about 132 lei (€26), upgrades 30 lei (€6). Extra hours charged at exit. A 3 hour Galaxy ticket for Guy plus Palm upgrade for the adults covers 10:45-13:45 nicely. Free parking.
+- Bring swimsuits, flip-flops, a towel (or rent one, 15 lei (€3)). Lockers by wristband. Food inside is fine but pricey; there is a Mega Image next door.
 - Distance: 20 min from Băneasa mall, 10 min from the airport, 30 min from the old town.
 
 ### Snagov lake (Lior and Guy, option 2)
 - **Worth it: 4/5 on a warm day, and the better Croatia warm-up.** A long calm lake 35 km north of the centre with an island monastery (Vlad the Impaler's legendary grave), reeds, lotus, locals swimming from the shore. Water about 20 C in late September.
-- Kayak or SUP from Port Natura on the Snagov shore (WhatsApp them via their Facebook page the day before to confirm a Tuesday 11:00 opening; about 35 lei per kayak per hour) or the Snagov Tur rental centre. Paddle towards the monastery island (1.5 km), swim 1 to 2 km along the shore with the swim buoy, Guy alongside in the kayak as the safety boat. No lifeguards.
+- Kayak or SUP from Port Natura on the Snagov shore (WhatsApp them via their Facebook page the day before to confirm a Tuesday 11:00 opening; about 35 lei (€7) per kayak per hour) or the Snagov Tur rental centre. Paddle towards the monastery island (1.5 km), swim 1 to 2 km along the shore with the swim buoy, Guy alongside in the kayak as the safety boat. No lifeguards.
 - Distance: 20 min from Băneasa, 15 min from the airport. Lunch at the lakeside terraces (Complexul Astoria or Lac Snagov restaurants).
 - Skip if it is under 18 C or windy: do Therme.
 
 ### Cișmigiu gardens and the Parliament palace (the 15:00 gap)
 - **Cișmigiu, 3/5:** the city's oldest park, a lake with rowing boats, big old trees, 15 min walk from the old town. A pleasant half hour.
-- **Palace of the Parliament, 4/5 from outside, 3/5 inside:** the second-largest administrative building in the world, Ceaușescu's folly. Tours (about 60 lei, 1 hour, passport required, book ahead online) run all day but do not fit the 16:30 dinner if we come back at 14:45; look at it from Piața Constituției (10 min taxi) and save the interior for another visit.
+- **Palace of the Parliament, 4/5 from outside, 3/5 inside:** the second-largest administrative building in the world, Ceaușescu's folly. Tours (about 60 lei (€12), 1 hour, passport required, book ahead online) run all day but do not fit the 16:30 dinner if we come back at 14:45; look at it from Piața Constituției (10 min taxi) and save the interior for another visit.
 
 ### Caru' cu Bere
 - **Worth it: 4/5.** A 1879 beer hall with painted vaults, stained glass and waiters in folk dress, the most famous restaurant in the city. Order the mici, the sarmale, the pork knuckle and the beer brewed for the house; papanași for dessert. Tourist-heavy but the food is honest and the room is spectacular. Reservation at 16:30 is already made; confirm it the day before.
@@ -53,7 +57,7 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 ## Alternatives we might like more
 - **Everyone to Therme, dinner as lunch:** move Caru' cu Bere to 13:00 (they take lunch bookings), then all five drive to Therme for 14:30-18:15 (Galaxy for the kids, Palm for the adults), shower there, and drive 10 min to the airport. No evening traffic, no rush, and the shoppers get 10:00-12:30 in the old town and on Calea Victoriei instead of the mall. This is the plan I would choose if Aya agrees.
 - **Tennis and bikes in Herăstrău instead of water:** North Tennis on the north side of Herăstrău park (6 clay courts, WhatsApp +40 746 126 015, ask for a court and a coach for 1 hour with lent racquets), then bikes around the 7 km lake loop, the Village Museum (open-air museum of old wooden houses, 4/5, Guy would like it), lunch at the park terraces. All 20 min from Băneasa, so the pick-up plan is unchanged.
-- **A slower city morning for all:** Cărturești Carusel bookshop, the Athenaeum (concert hall, 15 lei to see the interior), Calea Victoriei, the Village Museum by taxi, lunch at Vacamuuu Steakhouse in Floreasca (the reel restaurant, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Bucharest restaurants\|Bucharest restaurants]]), and Caru' cu Bere for an early dinner. If the family is tired of driving, this needs no car until the airport.
+- **A slower city morning for all:** Cărturești Carusel bookshop, the Athenaeum (concert hall, 15 lei (€3) to see the interior), Calea Victoriei, the Village Museum by taxi, lunch at Vacamuuu Steakhouse in Floreasca (the reel restaurant, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Bucharest restaurants\|Bucharest restaurants]]), and Caru' cu Bere for an early dinner. If the family is tired of driving, this needs no car until the airport.
 - More detail on the water, spa, tennis and Comana options, with timings and sources: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Last day options - Tue Sep 22 - me and Guy\|Last day options - Tue Sep 22 - me and Guy]].
 
 ## Useful to know

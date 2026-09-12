@@ -19,7 +19,7 @@ An evening arrival, so this day is only about landing, getting the car and sleep
 ### Otopeni airport and the rental car
 - Rental desks are in the arrivals hall; the cars are in a car park a few minutes' walk or a shuttle away. Take photos of every scratch and of the fuel gauge before leaving.
 - Ask the desk for a **rovinietă** (the electronic road vignette). Rentals almost always include it, but driving national roads without one is a fine.
-- Cash: draw 400-600 lei from an ATM in the arrivals hall (avoid Euronet machines, they give poor rates). Cards work almost everywhere, but a few stops on this trip are cash only (Seven Ladders Canyon, market food, small car parks).
+- Cash: draw 400-600 lei (€80-120) from an ATM in the arrivals hall (avoid Euronet machines, they give poor rates). Cards work almost everywhere, but a few stops on this trip are cash only (Seven Ladders Canyon, market food, small car parks).
 - Buy water for the car. There is a Mega Image supermarket 3 min from the hotel if anything is missing, open until 22:00 or 23:00.
 
 ### Hilton Garden Inn Bucharest Airport
@@ -27,7 +27,7 @@ An evening arrival, so this day is only about landing, getting the car and sleep
 - Restaurant open late for a snack, and a 24-hour pantry in the lobby.
 
 ## Alternative if the flight is early or the desk is closed
-- If the rental desk is closed at 22:00, take the hotel shuttle or a taxi (15-20 lei) and pick up the car at 09:00 tomorrow. This costs 45 min in the morning; then leave the hotel at 10:00 anyway, since the car is at the airport 5 min away.
+- If the rental desk is closed at 22:00, take the hotel shuttle or a taxi (15-20 lei (€3-4)) and pick up the car at 09:00 tomorrow. This costs 45 min in the morning; then leave the hotel at 10:00 anyway, since the car is at the airport 5 min away.
 
 ## Useful to know
 - Time zone is the same as Israel.

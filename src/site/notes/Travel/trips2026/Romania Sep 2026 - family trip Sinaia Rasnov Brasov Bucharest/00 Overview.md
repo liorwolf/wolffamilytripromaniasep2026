@@ -7,7 +7,7 @@
 With Aya, Tal, Guy and Noa. Fly El Al to Bucharest, rent a car, three nights in Sinaia, two nights in Rasnov (Brasov area), last night in Bucharest old town.
 
 ## Key dates
-Every day is planned around leaving the hotel at 10:00. The day notes have the full timeline, stop-by-stop detail and alternatives.
+Every day is planned around leaving the hotel at 10:00. The day notes have the full timeline, stop-by-stop detail and alternatives. Prices are in lei with the euro in brackets (5 lei to the euro). Each sit-down activity has a "For Lior" option nearby, timed for a very fast walker or runner, that rejoins the family afterwards.
 
 | Date | Where | Plan (10:00 start) |
 |---|---|---|

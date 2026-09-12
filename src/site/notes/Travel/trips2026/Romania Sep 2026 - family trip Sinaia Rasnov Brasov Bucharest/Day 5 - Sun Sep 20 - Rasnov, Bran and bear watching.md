@@ -25,8 +25,12 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 
 ### Bran Castle
 - **Worth it: 4/5.** A real 14th-century hilltop castle with towers, narrow staircases and secret passages, marketed as Dracula's castle although Vlad the Impaler barely passed by. Inside it is the furnished 1920s home of Queen Marie, small rooms, lots of stairs. Kids like the passages and the courtyard well.
-- Sunday is the second-busiest day. Being at the gate at 10:20 is fine in September, but buy timed tickets online (bran-castle.com) to skip the ticket queue. Open Tue-Sun 09:00-18:00, last entry 17:00. About 100 lei adults, 40 lei children 5-17; the Time Tunnel (a multimedia elevator through the rock) and the torture-instruments exhibit are 30 lei each, the Time Tunnel is the one to add.
-- Walking: 10 min uphill from the car park to the entrance, then about 1 hour of stairs inside. Parking 10-15 lei in the lots below the castle.
+- Sunday is the second-busiest day. Being at the gate at 10:20 is fine in September, but buy timed tickets online (bran-castle.com) to skip the ticket queue. Open Tue-Sun 09:00-18:00, last entry 17:00. About 100 lei (€20) adults, 40 lei (€8) children 5-17; the Time Tunnel (a multimedia elevator through the rock) and the torture-instruments exhibit are 30 lei (€6) each, the Time Tunnel is the one to add.
+- Walking: 10 min uphill from the car park to the entrance, then about 1 hour of stairs inside. Parking 10-15 lei (€2-3) in the lots below the castle.
+
+#### For Lior during the castle: Bran to Măgura on foot
+- The family does Bran (1 h 15) and drives up to Măgura; you run there and meet them at the village church at 12:20. Trail marked with a yellow cross from the Vama Medievală Bran museum, opposite the castle car park: 8 km, 450 m of climbing on forest paths and dirt roads with views back onto the castle, 3-4 hours at a walking pace, 1 h 15 at yours. Then join the Măgura-Peștera walk.
+- Bigger: the **Moara Dracului (Devil's Mill) waterfall** from Șimon village, 5 min from Bran: 11 km round trip, 500 m up, 3 to 3.5 hours walking, 1 h 45 running. Drop-off in Șimon at 10:15, back at 12:00, the family collects you on the way to Măgura. Wild and quiet, into the west face of the Bucegi; the waterfall at 1,575 m is small in September but the valley is the point.
 
 ### Măgura and Peștera villages
 - **Worth it: 5/5 for the setting, and this is the "villages where people still live the old way" line of the original plan, done properly.** Two scattered villages on a high plateau at 1,000 m between the Piatra Craiului wall and the Bucegi, wooden farms, cows, hay drying on poles, zero traffic. In late September the meadows are golden.
@@ -42,8 +46,8 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 
 ## Alternatives we might like more
 - **Skip Bran, more mountain:** Bran is worth seeing but it is a crowded museum. If the family prefers being outside, replace it with the **Moara Dracului (Devil's Mill) waterfall** hike from Șimon village near Bran: 11 km round trip, 3 to 3.5 hours, 500 m up, wild and quiet, a proper walk into the west side of the Bucegi. Start 10:20, back at the car 14:00, lunch in Bran, then bears. Aya and Tal could do Bran and Măgura with the car while the walkers hike, meeting in Bran at 14:00.
-- **Libearty bear sanctuary in the morning:** 100 rescued bears in a huge forest enclosure at Zărnești, 20 min from the hotel. Guided tours only, in the morning (Tue-Sun), about 1 h 15 on a 2 km trail, 80-90 lei, tickets go on sale 10 days ahead at millionsoffriends.org. It is not wild-bear watching but you are guaranteed to see 30 bears from a few metres. If we do this at 10:00, do Bran at 12:00 and skip Măgura. Two bear activities in one day is a lot, so choose this only if the wild hide seems too far.
-- **A closer wild hide, if the Medveles booking can be moved:** hides at the edge of Zărnești, 15 min from the hotel, run by the local forest manager, tours from Brasov at 15:00-16:00, about 4 hours total, roughly 85 percent sighting rate, around 400 lei per person. This would give back the whole afternoon.
+- **Libearty bear sanctuary in the morning:** 100 rescued bears in a huge forest enclosure at Zărnești, 20 min from the hotel. Guided tours only, in the morning (Tue-Sun), about 1 h 15 on a 2 km trail, 80-90 lei (€16-18), tickets go on sale 10 days ahead at millionsoffriends.org. It is not wild-bear watching but you are guaranteed to see 30 bears from a few metres. If we do this at 10:00, do Bran at 12:00 and skip Măgura. Two bear activities in one day is a lot, so choose this only if the wild hide seems too far.
+- **A closer wild hide, if the Medveles booking can be moved:** hides at the edge of Zărnești, 15 min from the hotel, run by the local forest manager, tours from Brasov at 15:00-16:00, about 4 hours total, roughly 85 percent sighting rate, around 400 lei (€80) per person. This would give back the whole afternoon.
 
 ## Useful to know
 - Sunday in the Bran area: restaurants fill up at 13:00-14:00 with day-trippers from Bucharest; eat at 13:30 latest or book.

@@ -10,8 +10,8 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 | Time | Who | What |
 |---|---|---|
 | 10:00 | all | Leave Hotel Rina. Aya drives the walkers to the **Gondola Sinaia** base station (7 min, big car park). |
-| 10:15 | walkers | Gondola Sinaia to Cota 1400, change to Gondola Carp to Cota 2000. About 25 min including the change. Adult 75 lei, child 40 lei one way. |
-| 10:20 | Aya, Tal | Drive 10 min to Bușteni, park at the **Bușteni cable car** (Telecabina Bușteni-Babele), take the cable car up when ready (departures every 30 min, 09:00-16:30, about 80-140 lei return). Or first coffee in Bușteni and go up at 12:30. |
+| 10:15 | walkers | Gondola Sinaia to Cota 1400, change to Gondola Carp to Cota 2000. About 25 min including the change. Adult 75 lei (€15), child 40 lei (€8) one way. |
+| 10:20 | Aya, Tal | Drive 10 min to Bușteni, park at the **Bușteni cable car** (Telecabina Bușteni-Babele), take the cable car up when ready (departures every 30 min, 09:00-16:30, about 80-140 lei (€16-28) return). Or first coffee in Bușteni and go up at 12:30. |
 | 10:45 | walkers | Cota 2000. Up Vârful Furnica (2,103 m), 30 min, first big view. |
 | 11:15 | walkers | Plateau trail (blue stripe, then yellow) to Piatra Arsă, 1 h 30. |
 | 12:45 | walkers | Piatra Arsă to Babele and the Sphinx, 1 h. Picnic lunch on the rocks. |
@@ -30,6 +30,11 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 - Omu peak (2,505 m) is 2 to 2.5 hours more from Babele each way. Not today.
 - Bears: they visit the huts on the plateau at dusk. Keep food packed, no problem in daytime.
 
+#### For Lior: run up instead of riding, or add Omu
+- **Run up:** leave the hotel on foot at 10:00 with the others in the car. Trail Sinaia to Poiana Stânii to Cota 1400 to Cota 2000 (red triangle, then blue stripe up the ski slope): 8 km, 1,000 m of climbing, 1 h 45 to 2 h at a very fast pace. The gondola riders start their plateau walk from Cota 2000 at 10:45 and take 1 h 30 to Piatra Arsă; you run the same stretch in 45 min, so you catch them before Piatra Arsă or at the latest at Babele. Saves a lift ticket, costs a bottle of water more.
+- **Omu peak (2,505 m), the highest point of the Bucegi:** from Babele the yellow-stripe path goes north over the plateau, 5 km and 300 m up each way, 1 h 15 each way at your pace. Leaving Babele at 13:45 puts you back at 16:15 for the 16:30 cable car, so only in clear weather and with the family's agreement that they descend without waiting for you. The hut on Omu sells tea.
+- **Safer add-on:** Caraiman peak (2,384 m) is 20 min beyond the Cross, same view plus the drop into the Jepii valley; back with the group for the descent.
+
 ### Bușteni cable car and Babele
 - **Worth it: 4/5.** A single dramatic cable car up the Jepii face from Bușteni (900 m) to Babele (2,200 m) in 10 min. Weekend queues can be 1-2 hours; a Friday in September should be 15-30 min.
 - Runs 09:00-16:30 with departures every 30 min, plus a last car at 17:15. Buy a **return ticket**, the gondola tickets from Sinaia are not valid here. Phone +40 244 311 939 to check it is running in the morning (wind).
@@ -40,7 +45,7 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 - Walking: 40 min from Babele on a marked path (red cross) with a short descent and climb, then 40 min back. Some exposure at the edge; keep the kids back from the drop.
 
 ### Bușteni afternoon
-- Main street cafés for cake and hot chocolate. The Cantacuzino Castle (1911, neo-Romanian, used in the Wednesday TV series) is 5 min away, gardens free, interior tour 50 lei, 4/5 for the outside and the views, closes at 18:00 in September.
+- Main street cafés for cake and hot chocolate. The Cantacuzino Castle (1911, neo-Romanian, used in the Wednesday TV series) is 5 min away, gardens free, interior tour 50 lei (€10), 4/5 for the outside and the views, closes at 18:00 in September.
 
 ## Alternatives we might like more
 - **A. Everyone goes up from Bușteni (easiest day):** all five take the Bușteni cable car at 10:30, Sphinx, Babele, Caraiman Cross (2.5 hours of easy walking), lunch at Cabana Babele, down at 15:00, Cantacuzino Castle at 15:30, back in Sinaia at 17:00. Less walking, same highlights, one car park. Choose this if yesterday's hike left people tired.
