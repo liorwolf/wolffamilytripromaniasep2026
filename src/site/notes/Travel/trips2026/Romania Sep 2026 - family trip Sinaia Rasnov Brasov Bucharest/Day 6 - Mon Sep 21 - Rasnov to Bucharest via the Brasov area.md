@@ -36,6 +36,7 @@ Last mountain morning in Piatra Craiului, then the 3 hour drive to Bucharest, ar
 
 ### Concorde Old Bucharest and the old town
 - The hotel is in the Lipscani area, everything below is on foot.
+- **Gym:** 24-hour fitness centre. **Breakfast:** 07:30-10:30, cooked to order, **not included**, about 75 lei (€15) per person; the old-town cafés two minutes away are the cheaper option before the 10:00 check-out. Parking reserved, about 140 lei (€28) per day. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]].
 - **Old town (Centrul Vechi), 4/5 in the evening:** a grid of restored 19th-century streets full of terraces. Stavropoleos church (1724, tiny, carved stone, the loveliest church in the city), the Old Princely Court (Vlad the Impaler's palace ruins), Hanul lui Manuc (a 1808 caravanserai courtyard, now a restaurant), Pasajul Macca-Vilacrosse (glass-roofed arcade, hookah bars), Cărturești Carusel (a beautiful bookshop on five floors, free, everyone likes it). Walking: 2 km loop, 1.5 hours with stops.
 - Dinner nearby: Hanul lui Manuc (Romanian, big courtyard, book), Lacrimi și Sfinți (modern Romanian, small, book), Caru' cu Bere is tomorrow. Or a 15 min taxi to Vacamuuu Steakhouse in Floreasca (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Bucharest restaurants\|Bucharest restaurants]]) if the family wants the steak tonight and lighter Romanian tomorrow.
 

@@ -56,7 +56,9 @@ Leave the airport hotel at 10:00, drive up the Prahova valley, see the best cast
 - **Earlier castle, later hike:** if the 12:45 slot is sold out, take 14:30-16:00 and do a shorter Poiana Stânii walk from 11:30 first, then lunch at 13:30, then the castle.
 
 ## Useful to know
-- Both hotels are 6 min from the castle: Hotel Rina Sinaia (family room) and Vila Retezat Sinaia (triple). Check breakfast start time tonight; we leave at 10:00 tomorrow, so it does not matter much.
+- Both hotels are 6 min from the castle: Hotel Sinaia (booked as Rina Sinaia, family room) and Vila Retezat Sinaia (triple), 10 min apart.
+- **Hotel Sinaia:** gym inside the Silena Mountain Spa with pool, jacuzzi and saunas, free 09:00-18:00 by reservation at reception, 20 lei (€4) per adult 18:00-20:00. Book a spa slot for tomorrow evening at check-in. Breakfast 07:00-10:00, buffet, normally included in the room rate (check the confirmation).
+- **Vila Retezat:** no gym, small pool and hot tub in the garden. Breakfast 08:30-10:00, continental, included. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]].
 - Buy tomorrow's gondola tickets tonight? Not possible online, cash or card at the base station. Fine.
 - Pack for tomorrow: layers, hat, gloves, rain shell, 1.5 l water per person, snacks. The plateau is 0-10 C in the wind even in September.
 

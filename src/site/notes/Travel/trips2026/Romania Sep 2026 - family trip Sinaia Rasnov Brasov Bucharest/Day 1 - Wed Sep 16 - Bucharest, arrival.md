@@ -25,6 +25,7 @@ An evening arrival, so this day is only about landing, getting the car and sleep
 ### Hilton Garden Inn Bucharest Airport
 - Modern, quiet, 3 km from the terminal on the airport side of the DN1 road, so the morning drive to Sinaia starts straight onto the highway with no city traffic.
 - Restaurant open late for a snack, and a 24-hour pantry in the lobby.
+- **Gym:** 24 hours, Technogym cardio and weights. **Breakfast:** 06:00-10:30, buffet plus cooked to order; included only if the rate says so, otherwise about 75-90 lei (€15-18) per person. Eat by 09:30 to leave at 10:00.
 
 ## Alternative if the flight is early or the desk is closed
 - If the rental desk is closed at 22:00, take the hotel shuttle or a taxi (15-20 lei (€3-4)) and pick up the car at 09:00 tomorrow. This costs 45 min in the morning; then leave the hotel at 10:00 anyway, since the car is at the airport 5 min away.

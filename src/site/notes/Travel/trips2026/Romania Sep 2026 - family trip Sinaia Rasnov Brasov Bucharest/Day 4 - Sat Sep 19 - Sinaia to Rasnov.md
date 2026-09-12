@@ -36,7 +36,8 @@ Moving day, but every stop is on the direct road north, so there is no backtrack
 - Shorter: run the forest road up to the canyon entrance in 25 min instead of walking it in 50 while the family strolls, then wait at the ticket cabin and climb the ladders together.
 
 ### Hotel Sorin Mihai, Cristian
-- Family-run three-star on the main road of Cristian, 8 km from Rasnov and 10 km from Brasov. Restaurant with Romanian food, free parking, quiet. Ask them tonight about breakfast times and about a packed lunch for Monday.
+- Family-run hotel on the main road of Cristian, 8 km from Rasnov and 10 km from Brasov. Restaurant with Romanian food, free parking, quiet.
+- **Gym:** none. Three tennis courts on site instead; ask at reception for a court and racquets for Guy and Noa this evening or Sunday morning. **Breakfast:** 08:00-10:00, buffet, charged separately unless our rate includes it, about 40-50 lei (€8-10) per person. Ask tonight for a 07:30 start on Monday and a packed lunch for the gorge. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]].
 - Cristian itself has a fortified Saxon church (1500s) worth a 10 min look.
 
 ### Brasov old town, evening
