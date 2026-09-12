@@ -4,9 +4,53 @@
 
 # Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle
 
-- Drive Bucharest airport to Sinaia, about 2 hours
-- Peleș Castle, 6 min drive from the hotel. "The only castle worth visiting"
-- From the castle, continue to the Franz Joseph path (24 min drive)
-- Sleep: Sinaia, Hotel Rina Sinaia (family room) + Vila Retezat Sinaia (triple room), https://maps.app.goo.gl/svWcYs2grdbcrs9X8
+Leave the airport hotel at 10:00, drive up the Prahova valley, see the best castle in Romania in the early afternoon, then walk straight from the castle car park into the mountains. Sleep in Sinaia.
+
+## Timeline (leaving the hotel at 10:00)
+| Time | What |
+|---|---|
+| 10:00 | Leave Hilton Garden Inn. DN1 north through Ploiești to Sinaia, 125 km. |
+| 12:15 | Arrive Sinaia. Park in the paid car park on the road up to Peleș (Strada Peleșului), 5-10 lei per hour. |
+| 12:20 | Quick lunch at one of the terraces on the castle road (see below). |
+| 12:45 | **Peleș Castle, booked time slot 12:45-14:30.** Guided visit about 1 hour. |
+| 14:00 | Coffee and the castle gardens, look at Pelișor from outside. |
+| 14:30 | **Royal Path (Poteca Regală)** on foot from the castle car park to Poiana Stânii Regale and the Franz Joseph cliffs. |
+| 17:30 | Back at the car. Drive 6 min to the hotels, check in. |
+| 18:30 | Walk in Sinaia: Dimitrie Ghica park, the casino from outside, the monastery courtyard (church open, museum closes 16:00). |
+| 19:30 | Dinner in Sinaia. |
+
+## Stops in detail
+
+### The drive, Bucharest to Sinaia
+- 125 km, 2 h to 2 h 30 depending on DN1 traffic. Leaving at 10:00 on a Thursday is after the morning rush; Ploiești's ring road is the slow part.
+- Fuel at Ploiești or Comarnic. The valley road from Comarnic to Sinaia is two lanes and slow behind trucks; relax, it is 30 min.
+- Good stop if anyone needs it: the Peco or Lukoil stations after Ploiești have clean toilets and coffee.
+
+### Peleș Castle
+- **Worth it: 5/5.** A late 19th-century royal summer palace, 160 rooms of carved wood, stained glass, weapons hall, the first castle in Europe with electricity. Everyone in the family will like it, and the guided tour keeps it to about an hour.
+- **Booking is required.** Since 2025 tickets are limited to 2,000 a day, sold for time slots, online at bilete.peles.ro or at the machines by the castle. Thursday slots: 09:15-11:00, 11:00-12:45, 12:45-14:30, 14:30-16:00. Book the **12:45-14:30** slot now for 5 people; slots cannot be changed later. Open Wed 10:00-17:00, Thu-Sun 09:15-17:00, closed Mon and Tue.
+- Price: about 100 lei per adult for ground floor plus first floor. The second-floor royal apartments cost extra and add 30 min, skip them with kids. Photo permit extra.
+- Walking: 400 m uphill from the car park to the castle, 10 min, on cobbles.
+- Lunch before: the terraces along Strada Peleșului serve grilled meats, soups and pizza; not great, but fast. Better and 5 min away: Bucegi restaurant on the main road, or Snow Restaurant.
+
+### Royal Path to the Franz Joseph cliffs
+- **Worth it: 4/5 for the walkers, 2/5 for anyone who dislikes climbing.** The original itinerary calls this a 24 min drive, it is not: it is a hike that starts right at the Peleș car park, marked with a red triangle, through beech and fir forest to the meadow of Poiana Stânii Regale (1,270 m) and on to the rock ledges of Franz Joseph with the view over the whole Prahova valley and Bușteni.
+- Walking: 8 km round trip, 490 m up, about 3 hours including the viewpoint. Good path, steep in the middle third. Water only from what you carry.
+- Shorter version for Aya and Tal: walk 50 min to Poiana Stânii (the meadow with the small terrace, sometimes open), enjoy the view, walk back, 2 hours total. Or skip and do the castles version below.
+- Sunset is 19:20, so a 14:30 start leaves plenty of margin.
+
+### Sinaia town in the evening
+- Dimitrie Ghica park and the casino (1913, tours only by arrangement, lovely from outside), the monastery (1695, two courtyards, the old church has original frescoes, free to enter, museum 10:00-16:00), the Belle Époque villas on the main street.
+- Dinner: Snow Restaurant (Romanian, good ciorbă and sarmale, terrace), Ramayana (Indian, surprisingly good), Taverna Sârbului (Serbian grill, big portions, 10 min drive towards Bușteni, popular with families, book).
+
+## Alternatives we might like more
+- **Castles instead of the hike, for Aya and Tal:** book Pelișor for 14:30 (separate ticket, about 50 lei, 40 min, Queen Marie's Art Nouveau house, the Golden Room lined in gold leaf; closed from 28 Sep, so we are in time). Then the town and a coffee at the casino terrace. The others meet them at 17:30.
+- **Cota 1400 by car for the view:** if legs are tired after the flight, drive the 10 km mountain road from Sinaia to Cota 1400 (20 min), walk 30 min on the plateau paths, see the valley from above, drive down. Zero effort, 3/5 views.
+- **Earlier castle, later hike:** if the 12:45 slot is sold out, take 14:30-16:00 and do a shorter Poiana Stânii walk from 11:30 first, then lunch at 13:30, then the castle.
+
+## Useful to know
+- Both hotels are 6 min from the castle: Hotel Rina Sinaia (family room) and Vila Retezat Sinaia (triple). Check breakfast start time tonight; we leave at 10:00 tomorrow, so it does not matter much.
+- Buy tomorrow's gondola tickets tonight? Not possible online, cash or card at the base station. Fine.
+- Pack for tomorrow: layers, hat, gloves, rain shell, 1.5 l water per person, snacks. The plateau is 0-10 C in the wind even in September.
 
 Previous: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 1 - Wed Sep 16 - Bucharest, arrival\|Day 1 - Wed Sep 16 - Bucharest, arrival]]  |  Next: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx\|Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx]]

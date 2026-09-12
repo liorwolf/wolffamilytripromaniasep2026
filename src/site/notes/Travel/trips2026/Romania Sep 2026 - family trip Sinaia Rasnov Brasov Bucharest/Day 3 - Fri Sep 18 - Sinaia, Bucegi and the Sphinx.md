@@ -4,16 +4,53 @@
 
 # Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx
 
-Two options:
+The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plateau to the Sphinx and the Caraiman Cross; the others go up from Bușteni by cable car and meet them at the Sphinx. Everyone comes down together to Bușteni, where the car is.
 
-## Option A: drive up to the Bucegi plateau
-- The Sphinx of Bucegi, Lake Bolboci, Cheile Tătarului
-- About 1 hour drive from Hotel Rina Sinaia
+## Timeline (leaving the hotel at 10:00)
+| Time | Who | What |
+|---|---|---|
+| 10:00 | all | Leave Hotel Rina. Aya drives the walkers to the **Gondola Sinaia** base station (7 min, big car park). |
+| 10:15 | walkers | Gondola Sinaia to Cota 1400, change to Gondola Carp to Cota 2000. About 25 min including the change. Adult 75 lei, child 40 lei one way. |
+| 10:20 | Aya, Tal | Drive 10 min to Bușteni, park at the **Bușteni cable car** (Telecabina Bușteni-Babele), take the cable car up when ready (departures every 30 min, 09:00-16:30, about 80-140 lei return). Or first coffee in Bușteni and go up at 12:30. |
+| 10:45 | walkers | Cota 2000. Up Vârful Furnica (2,103 m), 30 min, first big view. |
+| 11:15 | walkers | Plateau trail (blue stripe, then yellow) to Piatra Arsă, 1 h 30. |
+| 12:45 | walkers | Piatra Arsă to Babele and the Sphinx, 1 h. Picnic lunch on the rocks. |
+| 13:45 | all | Meet at the **Sphinx** (15 min walk from the Babele cable car station). |
+| 14:15 | all who want | **Caraiman Cross**, 40 min each way from Babele, the best view of the trip. Aya and Tal can wait at Cabana Babele (soup, tea) or come along, the path is easy. |
+| 15:45 | all | Cable car down to Bușteni (last regular departure 16:30, last car 17:15). |
+| 16:30 | all | Bușteni: coffee or cake on the main street. Drive 10 min back to Sinaia. |
+| 18:00 | all | Rest. Dinner in Sinaia or Bușteni. |
 
-## Option B: Gondola Sinaia and hike
-- Take the Gondola Sinaia up (7 min drive from the hotel) to the mountain top
-- Then about 1:20 h walk to the Sphinx
+## Stops in detail
 
-Sleep: Sinaia, Hotel Rina Sinaia + Vila Retezat Sinaia, https://maps.app.goo.gl/svWcYs2grdbcrs9X8
+### Gondola Sinaia and the plateau walk
+- **Worth it: 5/5.** Two gondolas take you from 1,000 m to 2,000 m in 25 min, then you walk on top of the world: rolling alpine plateau, 360-degree views, no forest, sheep, the occasional shepherd dog. The Bucegi plateau is the most spectacular easy high-mountain terrain in Romania.
+- Hours: Tue-Sun 08:00-17:00 (Mon from 12:00). The upper section (Cota 1400-2000) stops around 16:30. Runs in wind up to a point; if closed, see alternative B.
+- Walking for the walkers: 12 km from Cota 2000 to the Caraiman Cross and back to Babele, 5 to 6 hours including Furnica and the Cross, about 500 m up and down in total, never technical. Paths are marked with painted stripes on posts; take a photo of the map at Cota 2000.
+- Omu peak (2,505 m) is 2 to 2.5 hours more from Babele each way. Not today.
+- Bears: they visit the huts on the plateau at dusk. Keep food packed, no problem in daytime.
+
+### Bușteni cable car and Babele
+- **Worth it: 4/5.** A single dramatic cable car up the Jepii face from Bușteni (900 m) to Babele (2,200 m) in 10 min. Weekend queues can be 1-2 hours; a Friday in September should be 15-30 min.
+- Runs 09:00-16:30 with departures every 30 min, plus a last car at 17:15. Buy a **return ticket**, the gondola tickets from Sinaia are not valid here. Phone +40 244 311 939 to check it is running in the morning (wind).
+- Babele: the "old women" rock formations, 5 min from the station. The **Sphinx** is 15 min further on a flat path.
+
+### Caraiman Cross (Crucea Eroilor)
+- **Worth it: 5/5.** A 40 m steel cross at 2,291 m on the edge of the Caraiman peak, built in the 1920s for the WWI dead, lit at night and visible from the whole valley. From its base you look 1,300 m straight down onto Bușteni.
+- Walking: 40 min from Babele on a marked path (red cross) with a short descent and climb, then 40 min back. Some exposure at the edge; keep the kids back from the drop.
+
+### Bușteni afternoon
+- Main street cafés for cake and hot chocolate. The Cantacuzino Castle (1911, neo-Romanian, used in the Wednesday TV series) is 5 min away, gardens free, interior tour 50 lei, 4/5 for the outside and the views, closes at 18:00 in September.
+
+## Alternatives we might like more
+- **A. Everyone goes up from Bușteni (easiest day):** all five take the Bușteni cable car at 10:30, Sphinx, Babele, Caraiman Cross (2.5 hours of easy walking), lunch at Cabana Babele, down at 15:00, Cantacuzino Castle at 15:30, back in Sinaia at 17:00. Less walking, same highlights, one car park. Choose this if yesterday's hike left people tired.
+- **B. Wind or fog closes the lifts:** drive the Transbucegi road (DN71 from Sinaia south then up, 40 min of switchbacks) to Lake Bolboci and Cheile Tătarului gorge, short walks from the car, then on to the Piatra Arsă car park and 1 h walk to the Sphinx. Views 4/5, but 2 hours of driving. Cheaper alternative: Cantacuzino Castle and the Bușteni waterfall walk (Cascada Urlătoarea, 45 min each way, easy, 3/5) and move today's plateau to tomorrow morning.
+- **C. Sleep on it and swap days:** if the forecast says Friday rain and Saturday sun, do tomorrow's plan today and this plateau day tomorrow on the way north (the Bușteni cable car is on the way to Rasnov anyway).
+
+## Useful to know
+- Weather at 2,000 m: check the Babele forecast on meteoblue or yr.no the night before. Wind is what closes the lifts.
+- Cash for the lifts is safest; cards usually work at the Sinaia gondola.
+- Toilets at Cota 1400, Cota 2000 (hut), Babele hut.
+- Dinner tonight: Taverna Sârbului in Bușteni is on the way back from the cable car; book a table for 18:30.
 
 Previous: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle\|Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle]]  |  Next: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 4 - Sat Sep 19 - Sinaia to Rasnov\|Day 4 - Sat Sep 19 - Sinaia to Rasnov]]
