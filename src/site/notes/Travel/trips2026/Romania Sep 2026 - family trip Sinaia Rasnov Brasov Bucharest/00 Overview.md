@@ -12,7 +12,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 | Date | Where | Plan (10:00 start) |
 |---|---|---|
 | Wed 16 Sep | Bucharest airport | LY 571 lands 21:10. Rental car. Sleep Hilton Garden Inn airport |
-| Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online). Royal Path hike to the Franz Joseph cliffs, or Pelișor and the town |
+| Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil tickets for the kids). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
 | Sun 20 Sep | Bran, Măgura, bears | Bran castle 10:30 (booked online), Măgura and Peștera villages walk and lunch, 15:15 leave for the 17:30 bear watching (booked) |
@@ -36,6 +36,8 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]] (the note and the itinerary PDF as they were before being split by topic, Sep 2026)
 
 ## To do before the trip
+- Book Peleș for Thu 17 Sep, 12:45-14:30 slot, at https://bilete.peles.ro (adults 100 lei (€20), pupils 25 lei (€5); Tal is 15, take her school ID and try the pupil ticket)
+- Tal (15) and the kids: carry school ID cards. Reduced rates apply at Peleș (25 lei (€5)), Bran (children 5-17, 40 lei (€8)), Seven Ladders (5 lei (€1)), the Sinaia gondola (child fare) and Therme
 - Confirm 16:30 reservation at Caru' cu Bere for Sep 22
 
 ## Done

@@ -15,7 +15,7 @@ Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania S
 ### Thu 17 Sep, Sinaia and Peleș
 - Airport to Sinaia is 2 to 2.5 hours on DN1, more if leaving after 09:00.
 - Peleș is open Thursday 09:15-16:00, last entry 16:00, 2,000 visitors a day, closed Monday and Tuesday. Book online at bilete.peles.ro before the trip. Thursday is the right day.
-- "Franz Joseph path, 24 min drive" is a misunderstanding: the Royal Path (Poteca Regală) starts at the Peleș car park on foot, goes up to Poiana Stânii Regale and the Franz Joseph cliffs with the view over Sinaia and Bușteni. 8 km, about 3 hours round trip, 490 m up. It is a hike, not a drive, and a good one. See alternative A.
+- "Franz Joseph path, 24 min drive": both readings are right. The Royal Path (Poteca Regală) is the walk from the Peleș car park up to Poiana Stânii Regale and the Franz Joseph cliffs, 4 km and 490 m each way, about 1 h 10 up. There is also a gravel forest road from the Cota 1400 road to the meadow, about 23 min by car, passable in a normal car when dry (Aya checked, 12 Sep 2026). See alternative A and [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle\|Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle]].
 
 ### Fri 18 Sep, Bucegi
 - Gondola Sinaia runs Tuesday to Friday 08:30-16:00, the upper section (Cota 1400 to 2000) 09:30-16:30. Friday is fine.
