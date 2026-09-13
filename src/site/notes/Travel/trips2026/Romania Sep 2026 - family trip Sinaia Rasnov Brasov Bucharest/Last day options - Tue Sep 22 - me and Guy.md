@@ -27,7 +27,7 @@ Therme is 25 min north of the old town on DN1, opens 10:00 on weekdays, free par
 - Bigger idea, if Aya agrees: move Caru' cu Bere to a 13:00 lunch, then all five go to Therme 14:30-18:15 and drive 10 min to the airport. That removes the 17:45 rush-hour drive from the old town to the airport.
 
 ## Option 3: tennis and bikes in Herăstrău, no car needed
-- North Tennis, Șoseaua Nordului 7-9, north side of Herăstrău park: 6 clay courts, outdoor season May to October. Phone and WhatsApp 0746 126 015, office@northtennis.ro. Ask for a court plus a coach for 1 hour with lent racquets (their camps lend racquets and balls, confirm for a one-off). Older sources quote 20-35 lei (€4-7) per hour for the court.
+- North Tennis, Șoseaua Nordului 7-9, north side of Herăstrău park: 6 clay courts and a padel court, outdoor season May to October. Phone and WhatsApp 0746 126 015, office@northtennis.ro. Book a one-hour private lesson with a coach a few days ahead by WhatsApp in English and ask for a lent racquet; expect 150-250 lei (€30-50) with the court. Other coaches: Tennis Hero (English-speaking staff), Dax Tenis Club (courts 07:00-24:00, reservations 0729 060 303, lessons 0758 255 285, racquet rental), Bucharest Tennis (bucharest.tennis).
 - Around it: the 7 km lake loop on foot or bike, Village Museum (open-air, old wooden houses, worth an hour), Japanese garden.
 - 20 min by taxi from the old town, so a 07:30 run, 09:00 tennis, 10:30 bikes, lunch at Obor on the way back.
 
@@ -39,7 +39,7 @@ Therme is 25 min north of the old town on DN1, opens 10:00 on weekdays, free par
 
 ## Option 5: stay in the city, no early start
 - Văcărești Nature Park, the urban delta 5 km from the centre: 5.3 km loop on the dyke with views, 8 km marked route among the ponds, on foot or by bike. Wild, birds, odd and memorable.
-- Bouldering, Tal's sport: Blokx (open daily until 23:00, craft beer after), Fabrica de Cățărat (bouldering only, 550 sqm), Carpatic (also rope climbing, 100 routes). All rent shoes.
+- Bouldering (also an option for Tal, if she wants): Blokx (open daily until 23:00, craft beer after), Fabrica de Cățărat (bouldering only, 550 sqm), Carpatic (also rope climbing, 100 routes). All rent shoes.
 - Karting is listed in the October version of the plan for Brasov, there are indoor tracks in Bucharest too.
 - Long walk: old town, Cișmigiu gardens, Parliament palace from outside, Carol Park, about 8 km.
 

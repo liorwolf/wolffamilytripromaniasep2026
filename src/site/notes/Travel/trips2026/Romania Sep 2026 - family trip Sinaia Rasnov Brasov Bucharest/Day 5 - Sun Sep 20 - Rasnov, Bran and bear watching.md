@@ -9,6 +9,7 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 ## Timeline (leaving the hotel at 10:00)
 | Time | What |
 |---|---|
+| 08:00 | Optional for Lior: tennis hour with the hotel club's coach on the clay courts next door (book ahead, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 4 - Sat Sep 19 - Sinaia to Rasnov\|Day 4 - Sat Sep 19 - Sinaia to Rasnov]]); breakfast after. |
 | 10:00 | Leave Hotel Sorin Mihai. Drive 18 min to Bran. |
 | 10:20 | **Bran Castle.** Tickets bought online for 10:30. Visit 1 h 15 including the courtyard and the Time Tunnel elevator if Tal wants it. |
 | 11:45 | Souvenir market at the castle gate (5 min, kitsch, but someone may want a Dracula something). |
