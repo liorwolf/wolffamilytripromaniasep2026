@@ -32,7 +32,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Plan review - holes and alternatives\|Plan review - holes and alternatives]]
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Last day options - Tue Sep 22 - me and Guy\|Last day options - Tue Sep 22 - me and Guy]]
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Bucharest restaurants\|Bucharest restaurants]]
-- [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]] (few in the mountains; Snagov on the last day is the real one, plus a 50 m pool in Brasov)
+- [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]] (few in the mountains; Snagov on the last day is the real one)
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Alternate plan - Oct 2-9 version\|Alternate plan - Oct 2-9 version]] (second page of the itinerary PDF, a different dates version of the same route)
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]] (the note and the itinerary PDF as they were before being split by topic, Sep 2026)
 

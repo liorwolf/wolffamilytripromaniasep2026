@@ -54,9 +54,6 @@ Moving day, but every stop is on the direct road north, so there is no backtrack
 #### Optional for Tal: indoor climbing in Brasov
 - Only if Tal wants it; nothing else in the evening depends on it. Brasov has two gyms. **Climb House Brasov** (Strada Panselelor, inside the Metrom industrial park, gate 2; big modern bouldering and rope hall, 10 min drive from the old town) and **Natural High** (Strada Carpaților 60, smaller and more central, phone 0746 803 932). Day passes are roughly 40-60 lei (€8-12) with shoe rental 15-20 lei (€3-4); phone or check their Facebook pages for Saturday hours, most Romanian gyms run until 21:00-22:00. If she goes: 17:30-19:00 at the gym (bouldering needs no partner; for the rope wall ask the gym about a belay or an instructor), whoever wants to join goes along, the others walk the old town, everyone meets for dinner at 19:30. Book Sergiana or La Ceaun either way.
 
-#### For Lior in Brasov: a 50 m pool session
-- No swimmable lake near Brasov, but the **Bazinul Olimpic** (50 m, 10 lanes, indoor) is 10 min from the old town: a public session at about 18:00 for 30 lei (€6), then dinner. Check the session times at bazinulolimpicbrasov.ro. Details in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]].
-
 #### For Lior in Brasov: Tâmpa on foot
 - While the others walk the square and pick a restaurant, run the Serpentine path up **Tâmpa** (960 m) from behind the Black Church: 2.5 km and 400 m of climbing, 25-30 min up at your pace, 20 min down. The BRASOV sign, the whole old town below, sunset at 19:15. Back at the square for dinner at 19:30. The path is well made and lit on the lower part; the cable car (45 lei (€9) return) closes at 17:00 on Saturday, so this is the way up anyway.
 
