@@ -11,7 +11,7 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 |---|---|---|
 | 10:00 | all | Leave Hotel Rina. Aya drives the walkers to the **Gondola Sinaia** base station (7 min, big car park). |
 | 10:15 | walkers | Gondola Sinaia to Cota 1400, change to Gondola Carp to Cota 2000. About 25 min including the change. Adult 75 lei (€15), child 40 lei (€8) one way. |
-| 10:20 | Aya, Tal | Drive 10 min to Bușteni, park at the **Bușteni cable car** (Telecabina Bușteni-Babele), take the cable car up when ready (departures every 30 min, 09:00-16:30, about 80-140 lei (€16-28) return). Or first coffee in Bușteni and go up at 12:30. |
+| 10:20 | Aya, Tal (or Tal walks with the others if she prefers) | Drive 10 min to Bușteni, park at the **Bușteni cable car** (Telecabina Bușteni-Babele), take the cable car up when ready (departures every 30 min, 09:00-16:30, about 80-140 lei (€16-28) return). Or first coffee in Bușteni and go up at 12:30. |
 | 10:45 | walkers | Cota 2000. Up Vârful Furnica (2,103 m), 30 min, first big view. |
 | 11:15 | walkers | Plateau trail (blue stripe, then yellow) to Piatra Arsă, 1 h 30. |
 | 12:45 | walkers | Piatra Arsă to Babele and the Sphinx, 1 h. Picnic lunch on the rocks. |
@@ -42,7 +42,7 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 
 ### Caraiman Cross (Crucea Eroilor)
 - **Worth it: 5/5.** A 40 m steel cross at 2,291 m on the edge of the Caraiman peak, built in the 1920s for the WWI dead, lit at night and visible from the whole valley. From its base you look 1,300 m straight down onto Bușteni.
-- Walking: 40 min from Babele on a marked path (red cross) with a short descent and climb, then 40 min back. Some exposure at the edge; keep the kids back from the drop.
+- Walking: 40 min from Babele on a marked path (red cross) with a short descent and climb, then 40 min back. Some exposure at the edge; stay back from the drop.
 
 ### Bușteni afternoon
 - Main street cafés for cake and hot chocolate. The Cantacuzino Castle (1911, neo-Romanian, used in the Wednesday TV series) is 5 min away, gardens free, interior tour 50 lei (€10), 4/5 for the outside and the views, closes at 18:00 in September.

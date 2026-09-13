@@ -10,8 +10,8 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 | Time | What |
 |---|---|
 | 10:00 | Leave Hotel Sorin Mihai. Drive 18 min to Bran. |
-| 10:20 | **Bran Castle.** Tickets bought online for 10:30. Visit 1 h 15 including the courtyard and the Time Tunnel elevator if the kids want it. |
-| 11:45 | Souvenir market at the castle gate (5 min, kitsch, but Guy and Noa may want a Dracula something). |
+| 10:20 | **Bran Castle.** Tickets bought online for 10:30. Visit 1 h 15 including the courtyard and the Time Tunnel elevator if Tal wants it. |
+| 11:45 | Souvenir market at the castle gate (5 min, kitsch, but someone may want a Dracula something). |
 | 12:00 | Drive 20 min up the gravel road to **Măgura** village (1,000 m). |
 | 12:20 | Walk on the plateau between Măgura and Peștera: old farms, haystacks, the Piatra Craiului ridge on one side and Bucegi on the other. 1 to 1.5 hours, gentle. |
 | 13:45 | Lunch in Măgura (Pensiunea Casa Zimbrilor or Hanul Măgura, both terraces with the view; call ahead on a Sunday) or back down in Bran (Casa din Bran or Trattoria Al Gallo). |
@@ -24,8 +24,8 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 ## Stops in detail
 
 ### Bran Castle
-- **Worth it: 4/5.** A real 14th-century hilltop castle with towers, narrow staircases and secret passages, marketed as Dracula's castle although Vlad the Impaler barely passed by. Inside it is the furnished 1920s home of Queen Marie, small rooms, lots of stairs. Kids like the passages and the courtyard well.
-- Sunday is the second-busiest day. Being at the gate at 10:20 is fine in September, but buy timed tickets online (bran-castle.com) to skip the ticket queue. Open Tue-Sun 09:00-18:00, last entry 17:00. About 100 lei (€20) adults, 40 lei (€8) children 5-17; the Time Tunnel (a multimedia elevator through the rock) and the torture-instruments exhibit are 30 lei (€6) each, the Time Tunnel is the one to add.
+- **Worth it: 4/5.** A real 14th-century hilltop castle with towers, narrow staircases and secret passages, marketed as Dracula's castle although Vlad the Impaler barely passed by. Inside it is the furnished 1920s home of Queen Marie, small rooms, lots of stairs. The passages and the courtyard are the fun part.
+- Sunday is the second-busiest day. Being at the gate at 10:20 is fine in September, but buy timed tickets online (bran-castle.com) to skip the ticket queue. Open Tue-Sun 09:00-18:00, last entry 17:00. About 100 lei (€20) adults, 40 lei (€8) for ages 5-17 (Tal), 60 lei (€12) for students with a card (Guy and Noa); the Time Tunnel (a multimedia elevator through the rock) and the torture-instruments exhibit are 30 lei (€6) each, the Time Tunnel is the one to add.
 - Walking: 10 min uphill from the car park to the entrance, then about 1 hour of stairs inside. Parking 10-15 lei (€2-3) in the lots below the castle.
 
 #### For Lior during the castle: Bran to Măgura on foot
@@ -36,13 +36,13 @@ Bran castle in the morning, the old mountain villages above Bran for lunch and a
 - **Worth it: 5/5 for the setting, and this is the "villages where people still live the old way" line of the original plan, done properly.** Two scattered villages on a high plateau at 1,000 m between the Piatra Craiului wall and the Bucegi, wooden farms, cows, hay drying on poles, zero traffic. In late September the meadows are golden.
 - Driving: from Bran centre take the road signposted Măgura (Strada Măgura), 6 km, gravel for the last part, fine in a normal car, 20 min. Park at the village church or by the pension you eat at.
 - Walking: the marked path between Măgura and Peștera is 3 km each way on dirt tracks with 150 m of ups and downs; walk as far as you like and turn around, 1 to 1.5 hours is plenty. Wear proper shoes, there are cows and mud. Views the whole way.
-- Peștera has a small cave (Peștera Liliecilor, bat cave) 20 min on foot from the village if the kids want a cave.
+- Peștera has a small cave (Peștera Liliecilor, bat cave) 20 min on foot from the village if anyone wants a cave.
 
 ### Bear watching (Medveles, Harghita county)
 - **Worth it: 5/5 if bears show up, which at the Harghita hides is close to certain.** You sit silently in a wooden hide at the forest edge while brown bears come to a feeding spot in the last two hours of daylight, often a mother with cubs. Bring binoculars and a long lens, no flash, quiet clothes, warm layers (it gets cold sitting still).
 - The Medveles hides are near Băile Tușnad and Gheorgheni, not near Brasov. From Cristian, the Băile Tușnad hide is about 1 h 30 via Brasov and Sfântu Gheorghe (DN12, good road). The Gheorgheni hide is 3 hours, in which case the day needs re-planning. **Check the booking confirmation for the hide location and the meeting point.**
 - The program starts two hours before sunset (sunset 19:20, so meet about 17:00-17:15) and ends after dark, about 19:45. Then 1 h 30 back in the dark on a good road.
-- Kids: children are welcome if they can stay quiet for an hour; explain it beforehand.
+- Everyone stays silent for an hour or more in the hide; phones on silent, no rustling jackets.
 
 ## Alternatives we might like more
 - **Skip Bran, more mountain:** Bran is worth seeing but it is a crowded museum. If the family prefers being outside, replace it with the **Moara Dracului (Devil's Mill) waterfall** hike from Șimon village near Bran: 11 km round trip, 3 to 3.5 hours, 500 m up, wild and quiet, a proper walk into the west side of the Bucegi. Start 10:20, back at the car 14:00, lunch in Bran, then bears. Aya and Tal could do Bran and Măgura with the car while the walkers hike, meeting in Bran at 14:00.

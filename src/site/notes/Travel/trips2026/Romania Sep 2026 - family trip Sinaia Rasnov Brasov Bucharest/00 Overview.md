@@ -4,7 +4,7 @@
 
 # Romania family trip, Wed 16 - Tue 22 Sep 2026
 
-With Aya, Tal, Guy and Noa. Fly El Al to Bucharest, rent a car, three nights in Sinaia, two nights in Rasnov (Brasov area), last night in Bucharest old town.
+With Aya, Tal (15), Guy and Noa (both 25, graduate students). Fly El Al to Bucharest, rent a car, three nights in Sinaia, two nights in Rasnov (Brasov area), last night in Bucharest old town.
 
 ## Key dates
 Every day is planned around leaving the hotel at 10:00. The day notes have the full timeline, stop-by-stop detail and alternatives. Prices are in lei with the euro in brackets (5 lei to the euro). Each sit-down activity has a "For Lior" option nearby, timed for a very fast walker or runner, that rejoins the family afterwards.
@@ -12,7 +12,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 | Date | Where | Plan (10:00 start) |
 |---|---|---|
 | Wed 16 Sep | Bucharest airport | LY 571 lands 21:10. Rental car. Sleep Hilton Garden Inn airport |
-| Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil tickets for the kids). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
+| Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil ticket for Tal). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
 | Sun 20 Sep | Bran, Măgura, bears | Bran castle 10:30 (booked online), Măgura and Peștera villages walk and lunch, 15:15 leave for the 17:30 bear watching (booked) |
@@ -37,7 +37,8 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 
 ## To do before the trip
 - Book Peleș for Thu 17 Sep, 12:45-14:30 slot, at https://bilete.peles.ro (adults 100 lei (€20), pupils 25 lei (€5); Tal is 15, take her school ID and try the pupil ticket)
-- Tal (15) and the kids: carry school ID cards. Reduced rates apply at Peleș (25 lei (€5)), Bran (children 5-17, 40 lei (€8)), Seven Ladders (5 lei (€1)), the Sinaia gondola (child fare) and Therme
+- Tal (15) carries her school ID card: reduced rates at Peleș (pupils 25 lei (€5)), Bran (ages 5-17, 40 lei (€8)), Seven Ladders (pupils 5 lei (€1)) and the Sinaia gondola (child fare). Guy and Noa (25, graduate students) bring their university student cards (and ISIC if they have one): student tickets at Peleș (25 lei (€5) instead of 100), Bran (students 60 lei (€12) instead of 100), Seven Ladders (5 lei (€1)) and the Libearty sanctuary if we go; the Sinaia gondola and Therme have no student fare
+- Tal likes indoor climbing: gyms are listed for Brasov (Saturday evening, [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 4 - Sat Sep 19 - Sinaia to Rasnov\|Day 4 - Sat Sep 19 - Sinaia to Rasnov]]) and Bucharest (Monday evening or Tuesday, [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area\|Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area]]); Seven Ladders on Saturday is the outdoor version
 - Confirm 16:30 reservation at Caru' cu Bere for Sep 22
 
 ## Done

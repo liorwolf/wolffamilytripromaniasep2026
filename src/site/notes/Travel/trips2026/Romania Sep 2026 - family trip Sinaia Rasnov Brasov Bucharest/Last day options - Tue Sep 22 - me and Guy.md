@@ -28,18 +28,18 @@ Therme is 25 min north of the old town on DN1, opens 10:00 on weekdays, free par
 
 ## Option 3: tennis and bikes in Herăstrău, no car needed
 - North Tennis, Șoseaua Nordului 7-9, north side of Herăstrău park: 6 clay courts, outdoor season May to October. Phone and WhatsApp 0746 126 015, office@northtennis.ro. Ask for a court plus a coach for 1 hour with lent racquets (their camps lend racquets and balls, confirm for a one-off). Older sources quote 20-35 lei (€4-7) per hour for the court.
-- Around it: the 7 km lake loop on foot or bike, Village Museum (open-air, old wooden houses, Guy may like it), Japanese garden.
+- Around it: the 7 km lake loop on foot or bike, Village Museum (open-air, old wooden houses, worth an hour), Japanese garden.
 - 20 min by taxi from the old town, so a 07:30 run, 09:00 tennis, 10:30 bikes, lunch at Obor on the way back.
 
 ## Option 4: Comana Natural Park, the delta south of the city
 40 km south, 45-60 min by car. Second largest wetland in Romania after the Danube Delta, 141 bird species.
 - Kayak rental on site in the Neajlov delta (3-seat kayak 35-60 lei (€7-12) per hour). Guided tours run only on weekends, so self-rent.
-- Parcul de Aventură Comana next to it: rope courses and zip lines, good for Guy.
+- Parcul de Aventură Comana next to it: rope courses and zip lines, fun for Guy and Noa, and Tal if she skips the shopping.
 - Less good than Snagov for us: no real swimming, and 2 hours of driving in total against 1.5 for Snagov.
 
 ## Option 5: stay in the city, no early start
 - Văcărești Nature Park, the urban delta 5 km from the centre: 5.3 km loop on the dyke with views, 8 km marked route among the ponds, on foot or by bike. Wild, birds, odd and memorable.
-- Bouldering: Blokx (open daily until 23:00, craft beer after), Fabrica de Cățărat (bouldering only, 550 sqm), Carpatic (also rope climbing, 100 routes). All rent shoes.
+- Bouldering, Tal's sport: Blokx (open daily until 23:00, craft beer after), Fabrica de Cățărat (bouldering only, 550 sqm), Carpatic (also rope climbing, 100 routes). All rent shoes.
 - Karting is listed in the October version of the plan for Brasov, there are indoor tracks in Bucharest too.
 - Long walk: old town, Cișmigiu gardens, Parliament palace from outside, Carol Park, about 8 km.
 

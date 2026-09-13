@@ -11,7 +11,7 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 |---|---|---|
 | 10:00 | Check out, all luggage into the car. Everyone drives north together on DN1. | |
 | 10:25 | Drop-off at **Băneasa Shopping City** (opens 10:00). Shopping, lunch in the mall or at the terraces of the adjacent Băneasa strip. | Continue 15 min north to **Therme București** (opens 10:00) or 20 min to **Snagov lake**. |
-| 10:45 | | Therme: in the water by 10:45, Galaxy zone for Guy (slides), The Palm or Elysium for the adults. Or Snagov: kayak and open-water swim from Port Natura, 11:00-13:00, then lunch by the lake. |
+| 10:45 | | Therme: in the water by 10:45, Galaxy (slides, wave pool) or The Palm (quiet pools); Elysium's saunas are adults only. Or Snagov: kayak and open-water swim from Port Natura, 11:00-13:00, then lunch by the lake. |
 | 14:15 | Pick-up at Băneasa. | Leave Therme or Snagov 14:00, pick up the shoppers 14:15. |
 | 14:45 | Old town. Park at the hotel (ask to keep the reserved spot until 17:30) or the Unirii underground car park. Walk: Cișmigiu gardens (15 min away) or the Parliament palace from outside. | |
 | 16:30 | **Caru' cu Bere**, reservation for 5. | |
@@ -33,7 +33,7 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 
 ### Therme București (Lior and Guy, option 1)
 - **Worth it: 5/5 for a relaxed last day.** Europe's largest spa complex, a glass hall on the DN1 north of the airport: 10 pools of mineral water, 16 slides in the Galaxy zone, a wave pool, saunas, palm-tree indoor beach, outdoor heated pools. Tuesday mornings are quiet.
-- Prices are per zone and per 3 hours on weekdays: Galaxy (slides, families) about 71 lei (€14), The Palm (adults, quiet pools) about 102 lei (€20), Elysium (saunas, adults only) about 132 lei (€26), upgrades 30 lei (€6). Extra hours charged at exit. A 3 hour Galaxy ticket for Guy plus Palm upgrade for the adults covers 10:45-13:45 nicely. Free parking.
+- Prices are per zone and per 3 hours on weekdays: Galaxy (slides, families) about 71 lei (€14), The Palm (adults, quiet pools) about 102 lei (€20), Elysium (saunas, adults only) about 132 lei (€26), upgrades 30 lei (€6). Extra hours charged at exit. A 3 hour Galaxy or Palm ticket covers 10:45-13:45 nicely; Tal (15) is allowed in Galaxy, The Palm and Elysium are 16 and over, so if she comes to Therme it is Galaxy for her and one adult. Free parking.
 - Bring swimsuits, flip-flops, a towel (or rent one, 15 lei (€3)). Lockers by wristband. Food inside is fine but pricey; there is a Mega Image next door.
 - Distance: 20 min from Băneasa mall, 10 min from the airport, 30 min from the old town.
 
@@ -55,9 +55,10 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 - Fuel: return the car full; the OMV station at the airport roundabout is the last one.
 
 ## Alternatives we might like more
-- **Everyone to Therme, dinner as lunch:** move Caru' cu Bere to 13:00 (they take lunch bookings), then all five drive to Therme for 14:30-18:15 (Galaxy for the kids, Palm for the adults), shower there, and drive 10 min to the airport. No evening traffic, no rush, and the shoppers get 10:00-12:30 in the old town and on Calea Victoriei instead of the mall. This is the plan I would choose if Aya agrees.
+- **Everyone to Therme, dinner as lunch:** move Caru' cu Bere to 13:00 (they take lunch bookings), then all five drive to Therme for 14:30-18:15 (Tal in Galaxy with a companion, the rest can upgrade to The Palm), shower there, and drive 10 min to the airport. No evening traffic, no rush, and the shoppers get 10:00-12:30 in the old town and on Calea Victoriei instead of the mall. This is the plan I would choose if Aya agrees.
 - **Tennis and bikes in Herăstrău instead of water:** North Tennis on the north side of Herăstrău park (6 clay courts, WhatsApp +40 746 126 015, ask for a court and a coach for 1 hour with lent racquets), then bikes around the 7 km lake loop, the Village Museum (open-air museum of old wooden houses, 4/5, Guy would like it), lunch at the park terraces. All 20 min from Băneasa, so the pick-up plan is unchanged.
 - **A slower city morning for all:** Cărturești Carusel bookshop, the Athenaeum (concert hall, 15 lei (€3) to see the interior), Calea Victoriei, the Village Museum by taxi, lunch at Vacamuuu Steakhouse in Floreasca (the reel restaurant, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Bucharest restaurants\|Bucharest restaurants]]), and Caru' cu Bere for an early dinner. If the family is tired of driving, this needs no car until the airport.
+- **Climbing morning for Tal instead of the mall:** Tal and Noa (or Guy) at Blokx, Carpatic or Fabrica de Cățărat 10:30-12:30 (about 50-60 lei (€10-12), shoes for rent, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area\|Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area]]), then shopping at Promenada Mall in Floreasca or on Calea Victoriei until the 14:45 meeting in the old town. Needs a Bolt ride each way, no car.
 - More detail on the water, spa, tennis and Comana options, with timings and sources: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Last day options - Tue Sep 22 - me and Guy\|Last day options - Tue Sep 22 - me and Guy]].
 
 ## Useful to know

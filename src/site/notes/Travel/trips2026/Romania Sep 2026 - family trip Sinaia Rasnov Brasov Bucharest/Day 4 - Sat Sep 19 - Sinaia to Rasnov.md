@@ -26,8 +26,8 @@ Moving day, but every stop is on the direct road north, so there is no backtrack
 - Skip it if you want more time in Brasov later, or if yesterday was long.
 
 ### Seven Ladders Canyon
-- **Worth it: 5/5 for Guy and Noa, 4/5 for the rest.** A narrow limestone canyon in the Piatra Mare mountains climbed on seven steel ladders bolted next to seven waterfalls, the highest ladder 15 m. Wet, loud, fun. At the top there is a **zipline** back down over the forest in several sections (about 50 lei (€10), 2 km of cable, the longest zipline circuit in Romania).
-- Practical: hours 10:00-18:00, last entry to the canyon 17:30, last zipline 17:00. Entry about 10 lei (€2) per adult, 5 per child, **cash only**. Saturday afternoon is busy; going up at 13:00 rather than 11:00 avoids the morning tour groups.
+- **Worth it: 5/5 for Tal (a climber's canyon), Guy and Noa, 4/5 for the rest.** A narrow limestone canyon in the Piatra Mare mountains climbed on seven steel ladders bolted next to seven waterfalls, the highest ladder 15 m. Wet, loud, fun. At the top there is a **zipline** back down over the forest in several sections (about 50 lei (€10), 2 km of cable, the longest zipline circuit in Romania).
+- Practical: hours 10:00-18:00, last entry to the canyon 17:30, last zipline 17:00. Entry about 10 lei (€2) per adult, 5 lei (€1) for pupils and students with ID (Tal, Guy and Noa), **cash only**. Saturday afternoon is busy; going up at 13:00 rather than 11:00 avoids the morning tour groups.
 - Walking: park in Timișu de Jos (follow the "Canionul Șapte Scări" signs off DN1, 300 m into the village, roadside parking, free or 10 lei (€2)). Then a forest road of 45-60 min, 250 m up, easy but steady, to the ticket cabin. The canyon itself is 20 min of ladders. Return the same way (or by zipline). Total 2.5 to 3 hours.
 - Shoes with grip, the ladders and rock are wet. Small backpack, both hands free. Not for anyone afraid of heights, although the ladders have cages on the exposed parts. Aya and Tal can wait at the canyon entrance kiosk (drinks, benches) if they prefer not to climb, or walk back down slowly.
 
@@ -37,19 +37,22 @@ Moving day, but every stop is on the direct road north, so there is no backtrack
 
 ### Hotel Sorin Mihai, Cristian
 - Family-run hotel on the main road of Cristian, 8 km from Rasnov and 10 km from Brasov. Restaurant with Romanian food, free parking, quiet.
-- **Gym:** none. Three tennis courts on site instead; ask at reception for a court and racquets for Guy and Noa this evening or Sunday morning. **Breakfast:** 08:00-10:00, buffet, charged separately unless our rate includes it, about 40-50 lei (€8-10) per person. Ask tonight for a 07:30 start on Monday and a packed lunch for the gorge. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]].
+- **Gym:** none. Three tennis courts on site instead; ask at reception for a court and racquets for Tal, Guy and Noa this evening or Sunday morning. **Breakfast:** 08:00-10:00, buffet, charged separately unless our rate includes it, about 40-50 lei (€8-10) per person. Ask tonight for a 07:30 start on Monday and a packed lunch for the gorge. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]].
 - Cristian itself has a fortified Saxon church (1500s) worth a 10 min look.
 
 ### Brasov old town, evening
 - **Worth it: 4/5.** The Saxon medieval centre: Council Square (Piața Sfatului) with the Council House, the Black Church (Romania's largest Gothic church, blackened by the 1689 fire), the White and Black towers on the hill, Strada Sforii, Catherine's Gate and Șchei gate.
 - Park at the Piața Sfatului underground car park or Livada Poștei (3-4 lei (€0.6-0.8) per hour, card).
-- Dinner: Sergiana (traditional, cellar, book), La Ceaun (stews from cast-iron pots, casual, good with kids), Bistro de l'Arte (relaxed), Prato (Italian). Ice cream and the fountain in the square after.
+- Dinner: Sergiana (traditional, cellar, book), La Ceaun (stews from cast-iron pots, casual), Bistro de l'Arte (relaxed), Prato (Italian). Ice cream and the fountain in the square after.
+
+#### For Tal: indoor climbing in Brasov
+- Tal likes indoor climbing, and Brasov has two gyms. **Climb House Brasov** (Strada Panselelor, inside the Metrom industrial park, gate 2; big modern bouldering and rope hall, 10 min drive from the old town) and **Natural High** (Strada Carpaților 60, smaller and more central, phone 0746 803 932). Day passes are roughly 40-60 lei (€8-12) with shoe rental 15-20 lei (€3-4); phone or check their Facebook pages for Saturday hours, most Romanian gyms run until 21:00-22:00. Plan: 17:30-19:00 at the gym with Guy or Noa as partner, the others walk the old town, everyone meets for dinner at 19:30. Dinner reservations then matter, book Sergiana or La Ceaun.
 
 #### For Lior in Brasov: Tâmpa on foot
 - While the others walk the square and pick a restaurant, run the Serpentine path up **Tâmpa** (960 m) from behind the Black Church: 2.5 km and 400 m of climbing, 25-30 min up at your pace, 20 min down. The BRASOV sign, the whole old town below, sunset at 19:15. Back at the square for dinner at 19:30. The path is well made and lit on the lower part; the cable car (45 lei (€9) return) closes at 17:00 on Saturday, so this is the way up anyway.
 
 ## Alternatives we might like more
-- **Dino Parc Râșnov instead of the waterfall:** a dinosaur park with 100 life-size models in the forest under Râșnov fortress, a 9D cinema and playgrounds, open daily 09:30-20:00, about 28 lei (€5.5) adults, 22 lei (€4.5) kids. Fun for Guy and Noa if they are 12 or under, 2/5 for the adults. It is 10 min from the hotel, so it also fits any spare hour on Sunday or Monday.
+- **Dino Parc Râșnov instead of the waterfall:** a dinosaur park with 100 life-size models in the forest under Râșnov fortress, a 9D cinema and playgrounds, open daily 09:30-20:00, about 28 lei (€5.5) adults, 22 lei (€4.5) kids. A children's park; with Tal at 15 and Guy and Noa at 25 it is 2/5 at best, listed only because it is next to the hotel. It is 10 min from the hotel, so it also fits any spare hour on Sunday or Monday.
 - **Tâmpa cable car in Brasov:** instead of the waterfall, go straight to Seven Ladders at 11:00, be in Cristian by 15:00, then Brasov: the Tâmpa cable car (45 lei (€9) return, 3 min, Sat 09:30-17:00) to the Hollywood-style BRASOV sign and the view over the old town, walk down the zigzag path in 45 min. Then dinner. Note the cable car does not run on Mondays, so Saturday is the day for it.
 - **Rain day:** Seven Ladders is fine in light rain but not in a storm (the waterfalls swell). Rain plan: Cantacuzino Castle interior in Bușteni, then Brasov's Black Church interior and the First Romanian School museum in Șchei, then the Râșnov fortress panorama (the fortress is closed for renovation until 2028, but the terrace and the hill are open).
 
