@@ -26,6 +26,9 @@ Last mountain morning in Piatra Craiului, then the 3 hour drive to Bucharest, ar
 - Walking, walkers' version: from the gorge, the yellow-stripe path climbs through forest to **Cabana Curmătura** (1,470 m, a proper mountain hut with soup and tea), 2 to 2.5 hours from Botorog, 600 m up, then back down the Zănoaga meadow path in 1 h 30. About 11 km and 4 hours. With a 10:30 start the walkers are back at the car by 14:30, which leaves Bucharest for 17:30-18:00. Only do this if the group agrees to a later Bucharest arrival; otherwise the gorge alone.
 - Parking is free at Botorog (roadside) and at Gura Râului. Cash for the hut (soup 25 lei (€5), tea 8 lei (€1.6)).
 
+#### For Lior: early laps instead of a gym
+- The Cristian hotel has no gym; the Bazinul Olimpic in Brasov (50 m, 15 min away) usually has a public morning session from 07:00, 30 lei (€6). Back for breakfast at 08:30 and the 10:00 departure. See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]].
+
 #### For Lior: Curmătura and Piatra Mică
 - From Botorog through the gorge, then the yellow-stripe path to **Cabana Curmătura** (1,470 m), on to **Piatra Mică** (1,816 m) for the view along the whole Piatra Craiului ridge and across to the Bucegi, and down the Zănoaga meadows (blue triangle) back to Botorog: 12 km, about 1,000 m up and down, 5 to 6 hours at a walking pace, 2 h 45 to 3 h at yours. Start 10:30, back at the car by 13:30, exactly the departure time. The others do the gorge and coffee at Gura Râului, or drive 10 min to Zărnești for lunch and come back for you at 13:30. Tea and soup at the hut (cash).
 

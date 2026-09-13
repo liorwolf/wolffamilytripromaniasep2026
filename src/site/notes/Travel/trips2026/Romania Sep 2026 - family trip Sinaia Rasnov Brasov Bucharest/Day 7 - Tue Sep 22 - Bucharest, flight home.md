@@ -41,7 +41,7 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 - **Worth it: 4/5 on a warm day, and the better Croatia warm-up.** A long calm lake 35 km north of the centre with an island monastery (Vlad the Impaler's legendary grave), reeds, lotus, locals swimming from the shore. Water about 20 C in late September.
 - Kayak or SUP from Port Natura on the Snagov shore (WhatsApp them via their Facebook page the day before to confirm a Tuesday 11:00 opening; about 35 lei (€7) per kayak per hour) or the Snagov Tur rental centre. Paddle towards the monastery island (1.5 km), swim 1 to 2 km along the shore with the swim buoy, Guy alongside in the kayak as the safety boat. No lifeguards.
 - Distance: 20 min from Băneasa, 15 min from the airport. Lunch at the lakeside terraces (Complexul Astoria or Lac Snagov restaurants).
-- Skip if it is under 18 C or windy: do Therme.
+- Skip if it is under 18 C or windy: do Therme. Why Snagov and not another lake: see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]] (Lacul Morii and Herăstrău are no-swim).
 
 ### Cișmigiu gardens and the Parliament palace (the 15:00 gap)
 - **Cișmigiu, 3/5:** the city's oldest park, a lake with rowing boats, big old trees, 15 min walk from the old town. A pleasant half hour.
