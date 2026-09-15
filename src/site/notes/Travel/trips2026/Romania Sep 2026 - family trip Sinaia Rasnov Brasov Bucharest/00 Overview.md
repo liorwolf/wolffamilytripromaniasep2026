@@ -15,7 +15,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 | Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil ticket for Tal). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
-| Sun 20 Sep | Zărnești, Bran, Măgura, bears | Leave 09:20. Libearty bear sanctuary tour at Zărnești 10:00 (booked), Bran castle from the outside only (20 min photo stop), Măgura to Peștera walk and lunch 13:45, 15:00 on the road for the 17:30 wild bear hide if that booking still stands; otherwise the Rucăr-Bran pass to Fundata and Șirnea |
+| Sun 20 Sep | Zărnești, Bran, Măgura, Fundata | Leave 09:20. Libearty bear sanctuary tour at Zărnești 10:00 (booked), Bran castle from the outside only (20 min photo stop), Măgura to Peștera walk and lunch 13:45, Rucăr-Bran pass to Fundata and Șirnea, dinner in Brasov old town |
 | Mon 21 Sep | Piatra Craiului to Bucharest | Zărnești Gorge walk (walkers on to Curmătura hut), leave 13:30, Bucharest 17:00, old town evening |
 | Tue 22 Sep | Bucharest | Tal and Noa shopping at Băneasa (Aya invited), Lior and Guy at Therme or Snagov lake, 16:30 Caru' cu Bere, leave 17:30 for the airport, LY 9495 20:45 |
 
@@ -45,13 +45,13 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 - Confirm 16:30 reservation at Caru' cu Bere for Sep 22
 - Bran castle: no tickets needed, we only see it from the outside (Aya, 15 Sep)
 - Măgura: book a lunch table for 5 at 13:45 on Sun 20 Sep (Pensiunea Casa Zimbrilor or Hanul Măgura)
-- Optional, only if Tal wants it: Cheile Râșnoavei via ferrata with Jump Adventure on Sun 20 Sep afternoon, book by phone the day before (only on the version of the day without the wild hide)
-- Bears: confirm whether the Medveles wild hide at 17:30 on Sun 20 Sep is still booked now that the Libearty sanctuary is booked for the morning; if not, take the relaxed afternoon in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching\|Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching]]
+- Optional, only if Tal wants it: Cheile Râșnoavei via ferrata with Jump Adventure on Sun 20 Sep afternoon, book by phone the day before
+- Book a dinner table for 5 in Brasov old town for Sun 20 Sep 19:30 (Sergiana or La Ceaun)
 - Insurance: check whether the AIG policy covers only Lior or the whole family (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Flights\|Flights]])
 
 ## Done
 - Parking at Concorde Old Bucharest hotel: reserved (Aya)
-- Bear watching Sep 20, 17:30: booked (Aya), https://medveles.hu/en/programs/tourist-bear-watching
+- Wild bear hide (Medveles, 17:30 on Sep 20): dropped from the plan on 15 Sep, the Libearty sanctuary replaces it
 - Libearty bear sanctuary, Zărnești, Sun 20 Sep 10:00 tour: tickets bought (Aya, 15 Sep), https://millionsoffriends.org
 - Travel insurance: AIG, 16-22 Sep 2026, Romania, policy number in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Flights\|Flights]]
 
