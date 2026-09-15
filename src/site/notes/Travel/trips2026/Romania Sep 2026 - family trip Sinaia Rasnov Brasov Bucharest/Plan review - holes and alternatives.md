@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/plan-review-holes-and-alternatives/","dg-note-properties":{}}
+{"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/plan-review-holes-and-alternatives/", "dg-note-properties": {}}
 ---
 
 # Plan review: holes in the Sep 16-22 plan, and alternatives with more hiking and less driving
 
-Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]]). Verified facts are marked with the source at the bottom. Sunset in the mountains is about 19:15 on 18-21 Sep, sunrise about 07:00. Late September at 2000 m can be 0-10 C with wind; pack layers, hat, gloves, rain shell.
+Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]]). **Update 15 Sep:** the wild bear hide (Medveles) is off the plan; Sunday is now the Libearty bear sanctuary at 10:00, Bran from the outside only, Măgura and the Rucăr-Bran pass, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching\|Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching]]. The bear-hide paragraphs below are kept as the record of the review. Verified facts are marked with the source at the bottom. Sunset in the mountains is about 19:15 on 18-21 Sep, sunrise about 07:00. Late September at 2000 m can be 0-10 C with wind; pack layers, hat, gloves, rain shell.
 
 ## Holes, day by day
 
@@ -81,7 +81,7 @@ Sleep Mon 21 Sep in Bușteni or Sinaia instead (1 hour from Zărnești), drive t
 | Thu 17 | Drive to Sinaia, Peleș (booked), Royal Path hike to Franz Joseph cliffs |
 | Fri 18 | Bucegi traverse: gondola up, Furnica, Piatra Arsă, Sphinx, Caraiman Cross, cable car down to Bușteni |
 | Sat 19 | Cascada Urlătoarea, Seven Ladders Canyon, arrive Cristian |
-| Sun 20 | Bran at 09:00, Măgura-Peștera walk or Moara Dracului hike, bears at Zărnești at sunset |
+| Sun 20 | Libearty sanctuary 10:00 (booked), Bran from outside, Măgura-Peștera walk and lunch, Rucăr-Bran pass to Fundata and Șirnea, dinner in Brasov (updated 15 Sep) |
 | Mon 21 | Piatra Craiului to Curmătura and Piatra Mică, leave 14:30, Bucharest 18:00 |
 | Tue 22 | Bucharest: Tal and Noa shopping (Aya invited), me and Guy see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Last day options - Tue Sep 22 - me and Guy\|Last day options - Tue Sep 22 - me and Guy]], leave for the airport by 17:00 |
 
