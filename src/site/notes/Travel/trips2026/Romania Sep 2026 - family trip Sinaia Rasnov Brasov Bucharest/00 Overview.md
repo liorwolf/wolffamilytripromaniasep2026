@@ -15,7 +15,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 | Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil ticket for Tal). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
-| Sun 20 Sep | Zărnești, Bran, Măgura, bears | Leave 08:50. Libearty bear sanctuary tour at Zărnești (tickets bought by Aya, check the slot, assumed 09:30), Bran castle 11:30, Măgura lunch and walk, 15:15 leave for the 17:30 wild bear hide if that booking still stands |
+| Sun 20 Sep | Zărnești, Bran, Măgura, bears | Leave 09:20. Libearty bear sanctuary tour at Zărnești 10:00 (booked), Bran castle 12:00, Măgura lunch 13:45 and a short walk, 15:15 on the road for the 17:30 wild bear hide if that booking still stands |
 | Mon 21 Sep | Piatra Craiului to Bucharest | Zărnești Gorge walk (walkers on to Curmătura hut), leave 13:30, Bucharest 17:00, old town evening |
 | Tue 22 Sep | Bucharest | Tal and Noa shopping at Băneasa (Aya invited), Lior and Guy at Therme or Snagov lake, 16:30 Caru' cu Bere, leave 17:30 for the airport, LY 9495 20:45 |
 
@@ -43,14 +43,15 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 - Optional, only if Tal feels like it: indoor climbing gyms are listed for Brasov (Saturday evening, [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 4 - Sat Sep 19 - Sinaia to Rasnov\|Day 4 - Sat Sep 19 - Sinaia to Rasnov]]) and Bucharest (Monday evening or Tuesday, [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area\|Day 6 - Mon Sep 21 - Rasnov to Bucharest via the Brasov area]]). Nothing in the plan depends on it, and whoever wants to go along decides on the day
 - Tennis for Lior: the Cristian hotel has its own tennis club with coaches (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Hotels and sleeping\|Hotels and sleeping]] and [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 4 - Sat Sep 19 - Sinaia to Rasnov\|Day 4 - Sat Sep 19 - Sinaia to Rasnov]]); Bucharest coach options for the last day are in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 7 - Tue Sep 22 - Bucharest, flight home\|Day 7 - Tue Sep 22 - Bucharest, flight home]]
 - Confirm 16:30 reservation at Caru' cu Bere for Sep 22
-- Bran castle: buy the online tickets for Sun 20 Sep at 11:30 (after the sanctuary), not 10:30
+- Bran castle: buy the online tickets for Sun 20 Sep at 12:00 (after the 10:00 sanctuary tour), not 10:30
+- Măgura: book a lunch table for 5 at 13:45 on Sun 20 Sep (Pensiunea Casa Zimbrilor or Hanul Măgura)
 - Bears: confirm whether the Medveles wild hide at 17:30 on Sun 20 Sep is still booked now that the Libearty sanctuary is booked for the morning; if not, take the relaxed afternoon in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching\|Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching]]
 - Insurance: check whether the AIG policy covers only Lior or the whole family (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Flights\|Flights]])
 
 ## Done
 - Parking at Concorde Old Bucharest hotel: reserved (Aya)
 - Bear watching Sep 20, 17:30: booked (Aya), https://medveles.hu/en/programs/tourist-bear-watching
-- Libearty bear sanctuary, Zărnești, Sun 20 Sep morning tour: tickets bought (Aya, 15 Sep), https://millionsoffriends.org
+- Libearty bear sanctuary, Zărnești, Sun 20 Sep 10:00 tour: tickets bought (Aya, 15 Sep), https://millionsoffriends.org
 - Travel insurance: AIG, 16-22 Sep 2026, Romania, policy number in [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Flights\|Flights]]
 
 ## Sources used for the day plans (checked 12 Sep 2026)
