@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-3-fri-sep-18-sinaia-bucegi-and-the-sphinx/","dg-note-properties":{}}
+{"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-3-fri-sep-18-sinaia-bucegi-and-the-sphinx/", "dg-note-properties": {}}
 ---
 
 # Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx
@@ -44,11 +44,20 @@ The mountain day. Walkers go up from Sinaia by gondola and cross the Bucegi plat
 - **Worth it: 5/5.** A 40 m steel cross at 2,291 m on the edge of the Caraiman peak, built in the 1920s for the WWI dead, lit at night and visible from the whole valley. From its base you look 1,300 m straight down onto Bușteni.
 - Walking: 40 min from Babele on a marked path (red cross) with a short descent and climb, then 40 min back. Some exposure at the edge; stay back from the drop.
 
+### Getting back to the car (Aya's question)
+- **In the main plan there is no problem:** Aya drives to Bușteni and rides the cable car up, so the car is already at the Bușteni cable-car car park when everyone comes down. The walkers' start at the Sinaia gondola needs no car afterwards.
+- **If all five go up from Sinaia together** (everyone on the gondola, the car left at the Sinaia gondola base), the way back from Bușteni to Sinaia is:
+  - **Train:** 20 min walk downhill from the Bușteni cable-car station to Bușteni railway station (or a 5 min taxi), then a train to Sinaia: 10-12 min, 1 to 2 trains an hour on the Brașov-Bucharest line (Regio and InterRegio both stop; check the next departure on the CFR app or mersultrenurilor.infofer.ro), about 5-10 lei (€1-2) per person, tickets at the station or in the app. Sinaia station to Hotel Sinaia is a 5 min walk uphill.
+  - **Taxi or Bolt:** Bușteni to Sinaia is 8 km, 10-15 min, about 40-50 lei (€8-10) per car. Two cars for five people. Faster than the train if one is waiting.
+  - **The car:** from the hotel the gondola base station is 2 km and 200 m of climbing away. Lior runs it in about 12-15 min and brings the car down to the hotel, or drives straight to Bușteni to collect anyone who stayed there for cake.
+- Aya's walking estimate for the plateau matches the plan: Cota 2000 to Babele and the Sphinx is about 10 km and 3 to 3.5 hours at a normal pace (the timeline uses 1 h 30 to Piatra Arsă plus 1 h to Babele, plus Furnica).
+
 ### Bușteni afternoon
 - Main street cafés for cake and hot chocolate. The Cantacuzino Castle (1911, neo-Romanian, used in the Wednesday TV series) is 5 min away, gardens free, interior tour 50 lei (€10), 4/5 for the outside and the views, closes at 18:00 in September.
 
 ## Alternatives we might like more
 - **A. Everyone goes up from Bușteni (easiest day):** all five take the Bușteni cable car at 10:30, Sphinx, Babele, Caraiman Cross (2.5 hours of easy walking), lunch at Cabana Babele, down at 15:00, Cantacuzino Castle at 15:30, back in Sinaia at 17:00. Less walking, same highlights, one car park. Choose this if yesterday's hike left people tired.
+- **A2. Everyone goes up from Sinaia and walks the plateau together:** all five on the gondola at 10:15, Furnica, Piatra Arsă, Babele and the Sphinx (10 km, 3 to 3.5 hours), Caraiman Cross for those who want, cable car down to Bușteni, then train or taxi back to Sinaia and Lior fetches the car from the gondola base (see "Getting back to the car"). The best mountain day for the whole family if everyone is up for 10 km.
 - **B. Wind or fog closes the lifts:** drive the Transbucegi road (DN71 from Sinaia south then up, 40 min of switchbacks) to Lake Bolboci and Cheile Tătarului gorge, short walks from the car, then on to the Piatra Arsă car park and 1 h walk to the Sphinx. Views 4/5, but 2 hours of driving. For Lior, this is the one chance for a cold dip in the Bolboci lake (10-13 C, bring the buoy), see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Open water swimming options\|Open water swimming options]]. Cheaper alternative: Cantacuzino Castle and the Bușteni waterfall walk (Cascada Urlătoarea, 45 min each way, easy, 3/5) and move today's plateau to tomorrow morning.
 - **C. Sleep on it and swap days:** if the forecast says Friday rain and Saturday sun, do tomorrow's plan today and this plateau day tomorrow on the way north (the Bușteni cable car is on the way to Rasnov anyway).
 
