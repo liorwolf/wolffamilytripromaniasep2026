@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-4-sat-sep-19-sinaia-to-rasnov/","dg-note-properties":{}}
+{"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-4-sat-sep-19-sinaia-to-rasnov/", "dg-note-properties": {}}
 ---
 
 # Day 4 - Sat Sep 19 - Sinaia to Rasnov
@@ -65,6 +65,6 @@ Moving day, but every stop is on the direct road north, so there is no backtrack
 ## Useful to know
 - Predeal pass on DN1 is the highest point of the road (1,040 m); Saturday traffic towards Brasov is heavy after 15:00, so being on the road at 12:00 is good.
 - There is a bakery and a Profi supermarket on Bușteni's main street for picnic food.
-- Tomorrow is Sunday with the bear watching at 17:30, 1.5 hours away: the afternoon is fixed, so tonight is the evening to sleep early.
+- Tomorrow starts earlier than usual: the bear sanctuary tour is at 10:00 in Zărnești, so we leave the hotel at 09:20. Not a late night.
 
 Previous: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx\|Day 3 - Fri Sep 18 - Sinaia, Bucegi and the Sphinx]]  |  Next: [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching\|Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching]]
