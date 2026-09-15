@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "permalink": "/", "dg-note-properties": {}, "dg-home": true}
+{"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/00-overview/", "tags": ["gardenEntry"], "dg-note-properties": {}}
 ---
 
 # Romania family trip, Wed 16 - Tue 22 Sep 2026
