@@ -1,7 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-2-thu-sep-17-bucharest-to-sinaia-peles-castle/","dg-note-properties":{}}
 ---
-
 # Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle
 
 Leave the airport hotel at 10:00, drive up the Prahova valley, see the best castle in Romania in the early afternoon, then walk straight from the castle car park into the mountains. Sleep in Sinaia.
@@ -9,6 +8,7 @@ Leave the airport hotel at 10:00, drive up the Prahova valley, see the best cast
 ## Timeline (leaving the hotel at 10:00)
 | Time | What |
 |---|---|
+| 08:45 | Lior walks to the terminal (5-10 min) to collect the rental car, desk opens 09:00; car at the hotel by 09:45 (the desk was closed on arrival, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 1 - Wed Sep 16 - Bucharest, arrival\|Day 1 - Wed Sep 16 - Bucharest, arrival]]). |
 | 10:00 | Leave Hilton Garden Inn. DN1 north through Ploiești to Sinaia, 125 km. |
 | 12:15 | Arrive Sinaia. Park in the paid car park on the road up to Peleș (Strada Peleșului), 5-10 lei (€1-2) per hour. |
 | 12:20 | Quick lunch at one of the terraces on the castle road (see below). |
