@@ -10,13 +10,13 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 
 | Date | Where | Plan (10:00 start) |
 |---|---|---|
-| Wed 16 Sep | Bucharest airport | LY 571 lands 21:10. Lei at a bank ATM in arrivals, walk 5-10 min to the Hilton Garden Inn (rental desk closed, car collected Thu 09:00), dinner next door at Casa Românească (open to 24:00) |
+| Wed 16 Sep | Bucharest airport | LY 571 lands 21:35 (retimed 16 Sep). Lei at a bank ATM in arrivals, walk 5-10 min to the Hilton Garden Inn (rental desk closed, car collected Thu 09:00), dinner next door at Casa Românească (open to 24:00, dinner about 23:05) |
 | Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil ticket for Tal). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
 | Sun 20 Sep | Zărnești, Bran, Măgura, Fundata | Leave 09:20. Libearty bear sanctuary tour at Zărnești 10:00 (booked), Bran castle from the outside only (20 min photo stop), Măgura to Peștera walk and lunch 13:45, Rucăr-Bran pass to Fundata and Șirnea, dinner in Brasov old town |
 | Mon 21 Sep | Piatra Craiului to Bucharest | Zărnești Gorge walk (walkers on to Curmătura hut), leave 13:30, Bucharest 17:00, old town evening |
-| Tue 22 Sep | Bucharest | Tal and Noa shopping at Băneasa (Aya invited), Lior and Guy at Therme or Snagov lake, 16:30 Caru' cu Bere, leave 17:30 for the airport, LY 9495 20:45 |
+| Tue 22 Sep | Bucharest | Tal and Noa shopping at Băneasa (Aya invited), Lior and Guy at Therme or Snagov lake, 16:30 Caru' cu Bere, leave 17:30 for the airport, LY 9490 20:45 (renumbered, same time) |
 
 ## Notes in this folder
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Flights\|Flights]]
