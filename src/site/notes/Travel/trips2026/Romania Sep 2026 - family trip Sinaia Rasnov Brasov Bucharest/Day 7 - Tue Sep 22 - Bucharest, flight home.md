@@ -1,10 +1,9 @@
 ---
 {"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/day-7-tue-sep-22-bucharest-flight-home/","dg-note-properties":{}}
 ---
-
 # Day 7 - Tue Sep 22 - Bucharest, flight home
 
-A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior and Guy (and Aya if she prefers) have a water or spa morning north of the city. Everyone meets back at the old town for the 16:30 dinner at Caru' cu Bere, then the airport. Fixed points: check-out 10:00, dinner 16:30, flight LY 9495 at 20:45.
+A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior and Guy (and Aya if she prefers) have a water or spa morning north of the city. Everyone meets back at the old town for the 16:30 dinner at Caru' cu Bere, then the airport. Fixed points: check-out 10:00, dinner 16:30, flight LY 9490 at 20:45 (El Al renumbered it from LY 9495 on 16 Sep, same time, lands Tel Aviv 23:20).
 
 ## Timeline (leaving the hotel at 10:00)
 | Time | Tal and Noa (+ Aya) | Lior and Guy (+ Aya) |
@@ -18,7 +17,7 @@ A split day. Tal and Noa go shopping together, Aya is invited to join them. Lior
 | 17:30 | Leave for the airport (the plan said 17:45; leaving 15 min earlier is worth it, see below). | |
 | 18:20 | Return the rental car at Otopeni. | |
 | 18:40 | Check-in and El Al security, which asks for 3 hours before departure and is slow. | |
-| 20:45 | LY 9495 departs. | |
+| 20:45 | LY 9490 departs, lands Tel Aviv 23:20. | |
 
 ## Stops in detail
 
