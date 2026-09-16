@@ -1,7 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/hotels-and-sleeping/","dg-note-properties":{}}
 ---
-
 # Hotels and sleeping
 
 | Nights | Place | Hotel | Rooms | Map |
@@ -23,7 +22,7 @@
 | Concorde Old Bucharest | Yes, 24-hour fitness centre | 07:30-10:30, cooked to order | **Not included**, about 75 lei (€15) per person, same price for Tal. Alternative: coffee and pastries at the old-town cafés 2 minutes away (Origo, Ted's Coffee, or the Cărturești café) |
 
 ### Extra hotel facts
-- Hilton Garden Inn: free parking, restaurant open for dinner until 23:00, 24-hour pantry shop, 3 km from the terminal, free airport shuttle on request.
+- Hilton Garden Inn: free parking, restaurant open for dinner until 23:00, 24-hour pantry shop. A 5-10 minute walk from the terminal (150 m from departures, longer from arrivals), so no taxi is needed; the shuttle is on request and possibly paid (about 90 lei (€18) each way, book a day ahead), reception +40 31 403 5600. Casa Românească restaurant is in the next building (open to 24:00). See [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 1 - Wed Sep 16 - Bucharest, arrival\|Day 1 - Wed Sep 16 - Bucharest, arrival]].
 - Hotel Sinaia: the spa is the treat of the trip for Aya and Tal; Friday 17:00-18:00 after the mountain is free, 18:00-20:00 costs 20 lei (€4). Towels provided. Check-in from 15:00, check-out 12:00.
 - Vila Retezat: in the Furnica quarter, a steep 10 minute drive above the town, quiet, panoramic. Free parking. Check-in from 14:00.
 - Hotel Sorin Mihai: check-in from 14:00, check-out 12:00, free parking, EV charger, restaurant à la carte for lunch and dinner. It is in Cristian, not Rasnov: 8 km to Rasnov, 10 km to Brasov, 20 km to Bran.
