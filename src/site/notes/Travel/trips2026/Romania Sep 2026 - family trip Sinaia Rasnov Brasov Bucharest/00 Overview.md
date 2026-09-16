@@ -1,7 +1,6 @@
 ---
 {"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/00-overview/", "tags": ["gardenEntry"], "dg-note-properties": {}}
 ---
-
 # Romania family trip, Wed 16 - Tue 22 Sep 2026
 
 With Aya, Tal (15), Guy and Noa (both 25, graduate students). Fly El Al to Bucharest, rent a car, three nights in Sinaia, two nights in Rasnov (Brasov area), last night in Bucharest old town.
@@ -11,7 +10,7 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 
 | Date | Where | Plan (10:00 start) |
 |---|---|---|
-| Wed 16 Sep | Bucharest airport | LY 571 lands 21:10. Rental car. Sleep Hilton Garden Inn airport |
+| Wed 16 Sep | Bucharest airport | LY 571 lands 21:10. Lei at a bank ATM in arrivals, walk 5-10 min to the Hilton Garden Inn (rental desk closed, car collected Thu 09:00), dinner next door at Casa Românească (open to 24:00) |
 | Thu 17 Sep | Bucharest to Sinaia | Drive 2 h. Peleș Castle 12:45 slot (book online, pupil ticket for Tal). Poiana Stânii and the Franz Joseph cliffs on foot (Royal Path) or by the gravel forest road, decided on the spot |
 | Fri 18 Sep | Sinaia, Bucegi | Walkers: gondola to Cota 2000, plateau to the Sphinx and Caraiman Cross. Others: Bușteni cable car to Babele, meet at the Sphinx. Down to Bușteni together |
 | Sat 19 Sep | Sinaia to Cristian (Rasnov) | Cascada Urlătoarea walk, Seven Ladders Canyon with zipline, check in Cristian, Brasov old town evening |
