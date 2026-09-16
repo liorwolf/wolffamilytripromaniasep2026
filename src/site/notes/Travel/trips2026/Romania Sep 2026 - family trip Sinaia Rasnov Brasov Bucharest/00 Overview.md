@@ -35,6 +35,21 @@ Every day is planned around leaving the hotel at 10:00. The day notes have the f
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Alternate plan - Oct 2-9 version\|Alternate plan - Oct 2-9 version]] (second page of the itinerary PDF, a different dates version of the same route)
 - [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]] (the note and the itinerary PDF as they were before being split by topic, Sep 2026)
 
+## Parking and apps (checked 16 Sep 2026)
+Install before landing, register the rental car's plate once the car is collected:
+- **AmParcat** (amparcat.ro): one app for all three places we park on the street. Covers Bucharest, Brașov and all nine Sinaia car parks (Aleea Peleșului, Telecabina, Furnica, Cuza Vodă, Ferdinand, Gara and the others). Pays by card, Apple Pay, Google Pay or Revolut Pay, foreign cards accepted, no Romanian phone number needed, shows the price before confirming and warns before the time runs out.
+- **TPARK** (tpark.io): the app Brașov city hall recommends, works in 80+ towns but not Bucharest. Backup for Brașov and Sinaia; also sells the road vignette.
+- **Parking București**: the official Bucharest app, card payment without an account. Backup for Tuesday.
+- **Bolt** and **Uber** for rides (tonight from the airport, Friday from Bușteni back to Sinaia if needed).
+- SMS parking (7576 in Bucharest, other numbers elsewhere) needs a Romanian SIM; ignore it.
+
+Rules by place:
+- **Bucharest:** 5 lei (€1) per hour, 08:00-20:00 every day, free 20:00-08:00. Fine 200 lei (€40) per 24 h. The Concorde hotel spot is reserved for Monday night; if the car stays on the street into Tuesday morning, pay in the app before 08:00.
+- **Sinaia:** 6 lei (€1.20) per hour or 30 lei (€6) per day in the town car parks, paid hours about 08:00-18:00. The Gondola car park is a flat 30 lei (€6) a day. Aleea Peleșului is the car park for the castle.
+- **Brașov:** zone 0 (old town) 3 lei (€0.60) per hour, charged 24 hours a day including Sundays since 2020, so pay for the Saturday and Sunday evening dinners too. Meters take coins and notes but give no change; the app is easier.
+- **Cash car parks:** Râșnov fortress and Dino Parc 12 lei (€2.40) a day, Bran and the Seven Ladders car parks 10-20 lei (€2-4), Zărnești Gorge (Botorog) free. Keep coins and small notes.
+- **Rovinietă** (road vignette): confirm at the rental desk that it is included; if not, buy a 7-day one in the TPARK app or at e-rovinieta.ro with the plate and VIN, valid immediately.
+
 ## To do before the trip
 - Tennis lesson at the Cristian hotel club, Sun 20 Sep 07:00 (fallback 08:00), with lent racquet: requested by email 13 Sep, waiting for confirmation and price from rezervari@hotelsorinmihai.ro
 - Book Peleș for Thu 17 Sep, 12:45-14:30 slot, at https://bilete.peles.ro (adults 100 lei (€20), pupils 25 lei (€5); Tal is 15, take her school ID and try the pupil ticket)
