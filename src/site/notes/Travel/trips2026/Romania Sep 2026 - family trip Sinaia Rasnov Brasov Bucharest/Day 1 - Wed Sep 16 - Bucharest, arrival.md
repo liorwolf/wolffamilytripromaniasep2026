@@ -5,17 +5,17 @@
 
 An evening arrival, so this day is only about landing, getting to the hotel, a late dinner and sleep. The rental desk will be closed by the time we are through, so the car is collected tomorrow morning. The real plan starts on [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle\|Day 2 - Thu Sep 17 - Bucharest to Sinaia, Peleș Castle]] with a 10:00 departure.
 
-**Updated 16 Sep 2026 (day of arrival):** the hotel is a 5-10 minute walk from the terminal, so no taxi is needed. Dinner is next door at Casa Românească, open until midnight. Details below.
+**Updated 16 Sep 2026 (day of arrival):** El Al retimed the flight, LY 571 now leaves 18:55 and lands 21:35, 25 minutes later than planned, so everything below is shifted. The hotel is a 5-10 minute walk from the terminal, so no taxi is needed. Dinner is next door at Casa Românească, open until midnight. Details below.
 
 ## Timeline
 | Time | What |
 |---|---|
-| 21:10 | El Al LY 571 lands at Bucharest Otopeni (OTP). Passport control for non-EU passports can take 20-40 min in the evening. |
-| 21:50 | Luggage. While waiting: draw lei at a bank ATM in the arrivals hall (see below), and phone Casa Românească (+40 744 689 920) to say five people are coming at about 22:45 and ask when the kitchen closes. |
-| 22:15 | To the hotel on foot, 5-10 min (see "Getting to the hotel"). Bolt or a kiosk taxi only if it is raining or someone is too tired. |
-| 22:30 | Check in at Hilton Garden Inn Bucharest Airport (24-hour reception), drop the bags. |
-| 22:45 | Dinner at **Casa Românească**, Calea Bucureștilor 285A, the building next to the hotel. Open until 24:00. |
-| 24:00 | Sleep. Breakfast from 06:00. Lior fetches the car from the terminal at 09:00, everyone leaves the hotel at 10:00. |
+| 21:35 | El Al LY 571 lands at Bucharest Otopeni (OTP). Passport control for non-EU passports can take 20-40 min in the evening. |
+| 22:15 | Luggage. While waiting: draw lei at a bank ATM in the arrivals hall (see below), and phone Casa Românească (+40 744 689 920) to say five people are coming at about 23:05 and ask them to keep the kitchen open for us. |
+| 22:35 | To the hotel on foot, 5-10 min (see "Getting to the hotel"). Bolt or a kiosk taxi only if it is raining or someone is too tired. |
+| 22:50 | Check in at Hilton Garden Inn Bucharest Airport (24-hour reception), drop the bags. |
+| 23:05 | Dinner at **Casa Românească**, Calea Bucureștilor 285A, the building next to the hotel. Open until 24:00. |
+| 00:15 | Sleep. Breakfast from 06:00. Lior fetches the car from the terminal at 09:00, everyone leaves the hotel at 10:00. |
 
 ## Stops in detail
 
@@ -32,9 +32,9 @@ An evening arrival, so this day is only about landing, getting to the hotel, a l
 - Roughly 5 lei to the euro, 4.3 lei to the dollar.
 
 ### Dinner tonight: Casa Românească, Otopeni
-- **Calea Bucureștilor 285A**, the building next to the hotel (the hotel is number 283), 2-3 min on foot. Phone **+40 744 689 920**. Open **10:00-24:00 daily**, so a 22:45 arrival works; call first so the kitchen holds for us.
+- **Calea Bucureștilor 285A**, the building next to the hotel (the hotel is number 283), 2-3 min on foot. Phone **+40 744 689 920**. Open **10:00-24:00 daily**, so a 23:05 arrival works but is close to the kitchen's last orders; call first so they hold for us. If they cannot, skip the hotel and go straight from the terminal (5 min further along the same road) to eat first, then check in.
 - Traditional Romanian food and grill: ciorbă (sour soup), sarmale (stuffed cabbage), mici (grilled meat rolls), grilled trout, papanași for dessert. Terrace, full bar, sometimes live music. Rated first of the Otopeni restaurants on Tripadvisor (3.9/5, 211 reviews); reviews praise the food and the atmosphere, a few complain about the bill, so check it before paying. About 60-90 lei (€12-18) per person with a drink.
-- **Backups if it is full or closing:** the hotel's Wright Flyer restaurant (dinner until about 23:00, ask at check-in; room service is only 17:00-21:00) and the 24-hour pantry in the lobby for snacks; Glovo or Bolt Food delivery to the hotel lobby; the 24-hour Carrefour in the domestic arrivals hall of the terminal for sandwiches before leaving the airport. Airport Grill on the boulevard closes at 17:00, and The Bull steakhouse in the Vienna House next door closes at 22:00, so neither works tonight.
+- **Backups if it is full or closing:** the hotel's Wright Flyer restaurant closes at about 23:00, so with the later landing it is no longer a backup (room service is only 17:00-21:00); the 24-hour pantry in the lobby for snacks; Glovo or Bolt Food delivery to the hotel lobby; the 24-hour Carrefour in the domestic arrivals hall of the terminal for sandwiches before leaving the airport. Airport Grill on the boulevard closes at 17:00, and The Bull steakhouse in the Vienna House next door closes at 22:00, so neither works tonight.
 
 ### Otopeni airport tomorrow morning: the rental car
 - The desk is closed tonight, so Lior (and one more driver if two are named on the contract) walks back to the terminal at about 08:45, picks up the car at 09:00, and brings it to the hotel car park by 09:45. Everyone else has breakfast and is in the lobby with the bags at 10:00.
