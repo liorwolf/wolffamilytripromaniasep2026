@@ -1,7 +1,6 @@
 ---
 {"dg-publish": true, "permalink": "/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/plan-review-holes-and-alternatives/", "dg-note-properties": {}}
 ---
-
 # Plan review: holes in the Sep 16-22 plan, and alternatives with more hiking and less driving
 
 Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/__original\|__original]]). **Update 15 Sep:** the wild bear hide (Medveles) is off the plan; Sunday is now the Libearty bear sanctuary at 10:00, Bran from the outside only, Măgura and the Rucăr-Bran pass, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching\|Day 5 - Sun Sep 20 - Rasnov, Bran and bear watching]]. The bear-hide paragraphs below are kept as the record of the review. Verified facts are marked with the source at the bottom. Sunset in the mountains is about 19:15 on 18-21 Sep, sunrise about 07:00. Late September at 2000 m can be 0-10 C with wind; pack layers, hat, gloves, rain shell.
@@ -9,7 +8,7 @@ Reviewed 10 Sep 2026 against the itinerary PDF (see [[Travel/trips2026/Romania S
 ## Holes, day by day
 
 ### Wed 16 Sep, arrival
-- Landing 21:10, passport, luggage, car pick-up: at the hotel about 23:00. Fine. Check the rental desk is open at 22:00, otherwise collect the car in the morning.
+- Landing 21:10, passport, luggage, car pick-up: at the hotel about 23:00. Fine. Check the rental desk is open at 22:00, otherwise collect the car in the morning. (Update 16 Sep: the flight was retimed to land 21:35, the desk is closed, car collected Thu 09:00, see [[Travel/trips2026/Romania Sep 2026 - family trip Sinaia Rasnov Brasov Bucharest/Day 1 - Wed Sep 16 - Bucharest, arrival\|Day 1 - Wed Sep 16 - Bucharest, arrival]].)
 - The hotel is Hilton Garden Inn Bucharest Airport (there is no plain "Hilton airport").
 
 ### Thu 17 Sep, Sinaia and Peleș
@@ -77,7 +76,7 @@ Sleep Mon 21 Sep in Bușteni or Sinaia instead (1 hour from Zărnești), drive t
 ## Proposed revised week
 | Day | Plan |
 |---|---|
-| Wed 16 | Land 21:10, Hilton Garden Inn airport |
+| Wed 16 | Land 21:35, walk to the Hilton Garden Inn airport, dinner next door |
 | Thu 17 | Drive to Sinaia, Peleș (booked), Royal Path hike to Franz Joseph cliffs |
 | Fri 18 | Bucegi traverse: gondola up, Furnica, Piatra Arsă, Sphinx, Caraiman Cross, cable car down to Bușteni |
 | Sat 19 | Cascada Urlătoarea, Seven Ladders Canyon, arrive Cristian |
