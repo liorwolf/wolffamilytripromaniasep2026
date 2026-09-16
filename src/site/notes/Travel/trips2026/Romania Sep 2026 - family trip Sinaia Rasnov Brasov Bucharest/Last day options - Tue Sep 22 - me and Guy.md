@@ -1,10 +1,9 @@
 ---
 {"dg-publish":true,"permalink":"/travel/trips2026/romania-sep-2026-family-trip-sinaia-rasnov-brasov-bucharest/last-day-options-tue-sep-22-me-and-guy/","dg-note-properties":{}}
 ---
-
 # Last day options, Tue 22 Sep: me with Guy, while Tal and Noa shop (Aya invited)
 
-Fixed points: wake up at Concorde Old Bucharest (old town), 16:30 Caru' cu Bere, 17:45 leave for the airport, LY 9495 at 20:45. Car available. Tal and Noa go shopping and do the old town together, and Aya is invited to join them. If Aya prefers to come with me and Guy instead, the options below work for three.
+Fixed points: wake up at Concorde Old Bucharest (old town), 16:30 Caru' cu Bere, 17:45 leave for the airport, LY 9490 at 20:45. Car available. Tal and Noa go shopping and do the old town together, and Aya is invited to join them. If Aya prefers to come with me and Guy instead, the options below work for three.
 Sunrise about 07:00, sunset about 19:10. Late September in Bucharest is usually 22-25 C by day, lake water around 20 C.
 
 What worked in NYC: 06:00 starts, a running tour, tennis with a lent racquet, a long walk, a banya, a meat lunch. Croatia (from 25 Sep) is a week of open-water swimming. The options below follow that.
